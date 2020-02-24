@@ -1,7 +1,0 @@
-Place a Bet : 43^[[D-
-Traceback (most recent call last):
-  File "/server.py", line 57, in <module>
-    spent = int(input('Place a Bet : '))
-ValueError: invalid literal for int() with base 10: '43\x1b[D-'
-
-
