@@ -1,5 +1,7 @@
 # Mr-Worldwide
 
+**View full writeup:** https://jasonturley.xyz/picoctf-2019-mr-worldwide-writeup/
+
 ## Description
 > A musician left us a message. What's it mean?
 
