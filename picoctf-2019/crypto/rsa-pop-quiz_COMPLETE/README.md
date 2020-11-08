@@ -1,5 +1,7 @@
 # rsa-pop-quiz
 
+**View full writeup:** https://jasonturley.xyz/picoctf-2019-rsa-pop-quiz-writeup/
+
 ## Description
 > Class, take your seats! It's PRIME-time for a quiz... ```nc 2019shell1.picoctf.com 61751```
 
