@@ -1,78 +1,101 @@
 # GamingServer
-**Description:** An Easy Boot2Root box for beginners.
+> An Easy Boot2Root box for beginners.
 
-## Task 1 - Boot2Root
-Can you gain access to this gaming server built by amateurs with no experience
-of web development and take advantage of the deployment system.
-
-
-1. What is the user flag?
-
-
-2. What is the root flag?
-
+## Enumeration
 
 ### nmap
+I ran nmap to scan the network for open ports and services:
+
 ```
 nmap -sV -sC -Pn $IP
+```
+![nmap scan](./images/nmap.png)
 
-PORT   STATE SERVICE VERSION
-22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol
-2.0)
-| ssh-hostkey:
-|   2048 34:0e:fe:06:12:67:3e:a4:eb:ab:7a:c4:81:6d:fe:a9 (RSA)
-|   256 49:61:1e:f4:52:6e:7b:29:98:db:30:2d:16:ed:f4:8b (ECDSA)
-|_  256 b8:60:c4:5b:b7:b2:d0:23:a0:c7:56:59:5c:63:1e:c4 (EdDSA)
-80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
-| http-methods:
-|_  Supported Methods: POST OPTIONS HEAD GET
-|_http-server-header: Apache/2.4.29 (Ubuntu)
-|_http-title: House of danak
-MAC Address: 02:59:CE:37:01:BB (Unknown)
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+The target has ssh and http open. I headed to the web server and found the
+following comment in the source code:
+
+> john, please add some actual content to the site! lorem ipsum is horrible to
+> look at.
+
+Maybe this is a username we can use to login to ssh later? The next step is to
+scan the web server for any hidden web pages. My tool of choice is gobuster.
+
+### gobuster
+
+```
+gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u http://$IP:80
+```
+![gobuster scan](./images/gobuster.png)
+
+Looks like gobuster found two hidden directories: /uploads and /secret.
+
+Inside /uploads is "dict.lst", a list of passwords. Inside of /secret is a
+private RSA key named "secretKey".
+
+### Gaining Access
+
+The secretKey can be used to ssh into the target as john, but it is passphrase
+protected. In order to crack it we can use John The Ripper (JTR).
+
+First, we need to convert the RSA key into a format that JTR will like. This can
+be done with
+[ssh2john.py](https://raw.githubusercontent.com/magnumripper/JohnTheRipper/bleeding-jumbo/run/ssh2john.py).
+
+```
+/opt/john/ssh2john.py secretKey > for_john.txt
+```
+Now run JTR:
+
+![JTR crack](/images/john-secretKey.png)
+
+**Note:** If you get the error that secretKey permissions are too open, run
+this: ``` chmod 0600 secretKey```
+
+Once the passphrase is know, ssh into the target device as john.
+
+### User flag
+Inside of john's home directory is the user flag.
+
+### Privilege Escalation
+
+#### Failed Attempts
+I think it is important to highlight ideas I tried that did not work on this
+device. They are valid techniques that may come in handy in other CTF
+challenges. If you are just looking for the answer, skip to the Solution
+section.
+
+---
+
+### Failed Attempt #1: sudo -l
+In order to get the root user's flag, we need to escalate our priviliges. I
+always begin by running ```sudo -l``` but this requires us to know john's
+password, which we don't.
+
+### Failed Attempt #2: searching for setuid binaries
+My next approach was to find any setuid binaries that may give us a shell with
+help from [GTFOBins](https://gtfobins.github.io/).
+
+```
+find / -perm -u=s -type f 2>/dev/null
+...
+/usr/bin/pkexec
+...
 ```
 
-* ssh and http webserver
+This is a command that can easily get a privileged shell with ```sudo
+/usr/bin/pkexec /bin/sh```.
+However, we cannot use it without knowing john's password :(
 
-### website enumeration
-* found possible user john in comments of landing page
-* gobuster results:
-```
-root@ip-10-10-90-251:~# gobuster dir -w
-/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u http://$IP:80
-===============================================================
-Gobuster v3.0.1
-by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
-===============================================================
-[+] Url:            http://10.10.28.111:80
-[+] Threads:        10
-[+] Wordlist:       /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
-[+] Status codes:   200,204,301,302,307,401,403
-[+] User Agent:     gobuster/3.0.1
-[+] Timeout:        10s
-===============================================================
-2020/10/17 01:13:24 Starting gobuster
-===============================================================
-/uploads (Status: 301)
-/secret (Status: 301)
-/server-status (Status: 403)
-===============================================================
-2020/10/17 01:13:46 Finished
-===============================================================
-```
+### Solution: linpeas and lxd
+After my first two ideas did not go anywhere, I decided to upload and run
+linpeas on the target to look for further privilege escalation options.
 
-### Notes
-* found list of possible passwords in /uploads
-* tried to brute force login with hydra (failed)
-* found private RSA key in /secret, it is passphrase protected
-* downloaded ssh2john.py to convert the RSA key into a hash for john
-* used john to crack the hash
-```
-john --wordlist=./dict.lst for_john.txt
-```
-* ssh'd into the server and the user flag is in the home directory
-* looking for priv esc commands
-    * ```find / -perm -u=s -type f 2>/dev/null``` --> found /usr/bin/pkexec
-	* cannot use it without knowing john's password
-    * linpeas
+![linpeas](./images/linpeas.png)
 
+The script showed that john is in the lxd group. lxc is a Linux container and
+lxd is a daemon that runs lxc. After some googling, I found this great article
+on [lxd privilege escalation](https://www.hackingarticles.in/lxd-privilege-escalation/).
+
+## Root flag
+Following the steps in the article, I was able to spawn a shell as the root
+user and print our the flag.
