@@ -1,5 +1,7 @@
 ## la cifra de
 
+**View full writeup:** https://jasonturley.xyz/picoctf-2019-la-cifra-de-writeup/
+
 ## Description
 > I found this cipher in an old book. Can you figure out what it says? Connect
 > with ```nc 2019shell1.picoctf.com 61559```
@@ -12,7 +14,7 @@
 
 ## Solution
 The netcat server gives us an encrypted message. I went to
-[Cyber Chef](https://gchq.github.io/CyberChef/) and search for a decoder.
+[Cyber Chef](https://gchq.github.io/CyberChef/) and searched for a decoder.
 
 Since the title of this challenge is in French, I chose a French titled decoder:
 the *Vigenere cipher*. This decoder requires a key. After several minutes of
