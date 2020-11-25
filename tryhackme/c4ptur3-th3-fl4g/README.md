@@ -56,6 +56,9 @@ Rotate me 13 places!
 
 7. *@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX* 
 
+The text is encrypted with ROT47. CyberChef to the rescue:
+You spin me right round baby right round (47 times)
+
 8. - . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.
 
 . -. -.-. --- -.. .. -. --.
@@ -79,3 +82,16 @@ for d in decimal:
 
 print()
 ```
+
+## Spectograms
+
+Here are the steps I followed to get this flag:
+- download file
+- open file in Audacity
+- click dropdown menu
+- select "spectogram" to reveal flag
+
+TODO: add photos of soundwaves and flag
+
+## Steganography
+Admittedly, stego challenges are a weak point of mine. Nevertheless, I gave this one a shot. I tried strings, binwalk, bulk_extractor, and steghide, but none of them led me anywhere.
