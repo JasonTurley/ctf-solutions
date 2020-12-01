@@ -1,9 +1,11 @@
 # asm3
 
 ## Description
-> What does asm3(0xd2c26416,0xe6cf51f0,0xe54409d5) return? Submit the flag as a
-> hexadecimal value (starting with '0x'). NOTE: Your submission for this
-> question will NOT be in the normal flag format.
+What does asm3(0xd2c26416,0xe6cf51f0,0xe54409d5) return? Submit the flag as a
+hexadecimal value (starting with '0x'). NOTE: Your submission for this
+question will NOT be in the normal flag format.
+
+**Category:** Reverse Engineering
 
 **Points:** 300
 
@@ -59,18 +61,16 @@ Next, create ```main.c```:
 int asm3(int, int, int);
 
 int main() {
-    printf("0x%x\n", asm3(0xd2c26416,0xe6cf51f0,0xe54409d5));
+    printf("The flag is 0x%x\n", asm3(0xd2c26416,0xe6cf51f0,0xe54409d5));
     return 0;
 }
 ```
 
 Finally, compile and run:
 ```
-jason@lapras:~/ctf-solutions/picoctf/reverse-engineering/asm3$ gcc -masm=intel -m32 -c test.S -o test.o
-jason@lapras:~/ctf-solutions/picoctf/reverse-engineering/asm3$ gcc -m32 -c main.c -o main.o
-jason@lapras:~/ctf-solutions/picoctf/reverse-engineering/asm3$ gcc -m32 test.o main.o -o main
-jason@lapras:~/ctf-solutions/picoctf/reverse-engineering/asm3$ ./main
-0x375
+jason@lapras:$ gcc -masm=intel -m32 -c test.S -o test.o
+jason@lapras:$ gcc -m32 -c main.c -o main.o
+jason@lapras:$ gcc -m32 test.o main.o -o main
+jason@lapras:$ ./main
+The flag is 0x375
 ```
-
-**Flag:** 0x375
