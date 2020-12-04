@@ -83,7 +83,22 @@ for d in decimal:
 print()
 ```
 
+10. Super long text
+
+This problem is encrypted multiple times with ciphers we have used in previous tasks. I entered the following CyberChef recipes in this order:
+
+- From Base64
+- From Morse Code
+- From Binary
+- ROT47
+- From Decimal
+
+```
+Let's make this a bit trickier...
+```
+
 ## Spectograms
+> A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time. When applied to an audio signal, spectrograms are sometimes called sonographs, voiceprints, or voicegrams. When the data is represented in a 3D plot they may be called waterfalls. 
 
 Here are the steps I followed to get this flag:
 - download file
@@ -94,4 +109,53 @@ Here are the steps I followed to get this flag:
 TODO: add photos of soundwaves and flag
 
 ## Steganography
-Admittedly, stego challenges are a weak point of mine. Nevertheless, I gave this one a shot. I tried strings, binwalk, bulk_extractor, and steghide, but none of them led me anywhere.
+> Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+
+1. Decode the image to reveal the answer.
+
+First I used steghide to inspect the downloaded JPG file:
+
+```
+$ steghide info stegosteg.jpg 
+"stegosteg.jpg":
+  format: jpeg
+  capacity: 2.5 KB
+Try to get information about embedded data ? (y/n) y
+Enter passphrase: 
+  embedded file "steganopayload2248.txt":
+    size: 13.0 Byte
+    encrypted: rijndael-128, cbc
+    compressed: yes
+```
+
+We see that there is an embedded text file! Time to extract it:
+
+```
+$ steghide extract -sf stegosteg.jpg
+Enter passphrase: 
+wrote extracted data to "steganopayload2248.txt".
+                                                                                                                  
+$ cat steganopayload2248.txt 
+SpaghettiSteg
+```
+
+## Security through obscurity
+> Security through obscurity is the reliance in security engineering on the secrecy of the design or implementation as the main method of providing security for a system or component of a system.
+
+1. Download and get 'inside' the file. What is the first filename & extension?
+
+```
+
+```
+
+2. Get inside the archive and inspect the file carefully. Find the hidden text.
+
+Both answers can be found by running the strings command on the file:
+```
+$ strings -7 meme.jpg
++VaTH;O(
+i1M/W~a
+r;%l@k4
+"AHH_YOU_FOUND_ME!" 
+hackerchat.png
+```
