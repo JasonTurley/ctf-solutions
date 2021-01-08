@@ -1,0 +1,78 @@
+# Nmap 7.91 scan initiated Tue Nov 24 11:49:01 2020 as: nmap -sV -sC -Pn -oN nmap_initial 10.10.211.50
+Nmap scan report for 10.10.211.50
+Host is up (0.24s latency).
+Scanned at 2020-11-24 11:49:02 EST for 116s
+Not shown: 988 closed ports
+PORT      STATE SERVICE            VERSION
+135/tcp   open  msrpc              Microsoft Windows RPC
+139/tcp   open  netbios-ssn        Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds       Windows 7 Professional 7601 Service Pack 1 microsoft-ds (workgroup: WORKGROUP)
+3389/tcp  open  ssl/ms-wbt-server?
+| ssl-cert: Subject: commonName=Dark-PC
+| Issuer: commonName=Dark-PC
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha1WithRSAEncryption
+| Not valid before: 2020-11-23T16:48:33
+| Not valid after:  2021-05-25T16:48:33
+| MD5:   b694 e6ef 0da9 6829 3f5d 378e d7bc 904a
+| SHA-1: d85d 776b 8838 e85c 01ee 5ae9 fff8 ea17 847c ba31
+| -----BEGIN CERTIFICATE-----
+| MIIC0jCCAbqgAwIBAgIQTI9A0wcvW4JHNAwvq06aczANBgkqhkiG9w0BAQUFADAS
+| MRAwDgYDVQQDEwdEYXJrLVBDMB4XDTIwMTEyMzE2NDgzM1oXDTIxMDUyNTE2NDgz
+| M1owEjEQMA4GA1UEAxMHRGFyay1QQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+| AQoCggEBAJTrezhGkX9X4ENA+jRg8v0XQj17jRrZRPG4BO3zuM85iY1Pu/kKrqtT
+| ExiIc2gKkuJljAcEQcNnGQ0xfrmjkLoy9Dm3UhSO97ozynq2dfppjjHYdHoAEJ3a
+| VM/f543ZUUQp2sNixS76zpFYTxGMMCkwCimGZpyFcA3xThIE7RTlWNKkOB3AXstF
+| DNVdTdP4sTOcs4u89laJ9cCt93nPhm+1EQ7FPz2b59ReEfCEg2fdKAChlPkoWajT
+| 2K1NgUFZ3vU0RremHwTL33PuVBKLziAawzO8CuCForHLxgM5Tlu8ieXuINBgvFSR
+| 3KDwcl/XnWKD8rvnIsssKNesPORPwhMCAwEAAaMkMCIwEwYDVR0lBAwwCgYIKwYB
+| BQUHAwEwCwYDVR0PBAQDAgQwMA0GCSqGSIb3DQEBBQUAA4IBAQBdmsGiEWbWGCjV
+| I4KTYgV+Q6+eLJE87deHWUge/nPQ9v/2IdGosqWIKV9bePxw+RjxLJxoLseOsAvK
+| TEG0G4yk3nf8pbX4BF8oahFbehho/hQWEgWUzsJ8CWAzRzVWH8jQLvR3bOXlYvgB
+| YzuRUNRvMDa3N5oZ7ExhzbnIciokL5Mkv8K2ru9c0aEEORt5kBpZmg7qiRmevi5A
+| /MV1k32Lp3LQEqBn+1Y23CZkashqEk88HRAekGe8oIdggEkAOovoVrvMD3wz7jHJ
+| DZZrbv2IKOPGnrGsmfzTR9vlDYYLCpdV+FQefiF47ysj/NWdBJRgu1GOEcqBLm8E
+| YqhRGw9v
+|_-----END CERTIFICATE-----
+|_ssl-date: 2020-11-24T16:50:53+00:00; -4s from scanner time.
+5357/tcp  open  http               Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+8000/tcp  open  http               Icecast streaming media server
+| http-methods: 
+|_  Supported Methods: GET
+|_http-title: Site doesn't have a title (text/html).
+49152/tcp open  msrpc              Microsoft Windows RPC
+49153/tcp open  msrpc              Microsoft Windows RPC
+49154/tcp open  msrpc              Microsoft Windows RPC
+49158/tcp open  msrpc              Microsoft Windows RPC
+49159/tcp open  msrpc              Microsoft Windows RPC
+49160/tcp open  msrpc              Microsoft Windows RPC
+Service Info: Host: DARK-PC; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+|_clock-skew: mean: 1h29m57s, deviation: 3h00m03s, median: -4s
+|_nbstat: NetBIOS name: DARK-PC, NetBIOS user: <unknown>, NetBIOS MAC: 02:28:db:ee:ee:63 (unknown)
+| smb-os-discovery: 
+|   OS: Windows 7 Professional 7601 Service Pack 1 (Windows 7 Professional 6.1)
+|   OS CPE: cpe:/o:microsoft:windows_7::sp1:professional
+|   Computer name: Dark-PC
+|   NetBIOS computer name: DARK-PC\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2020-11-24T10:50:40-06:00
+| smb-security-mode: 
+|   account_used: <blank>
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb2-security-mode: 
+|   2.02: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2020-11-24T16:50:37
+|_  start_date: 2020-11-24T16:48:32
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Nov 24 11:50:58 2020 -- 1 IP address (1 host up) scanned in 117.28 seconds
