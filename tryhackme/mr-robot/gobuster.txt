@@ -1,0 +1,44 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.31.57
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Timeout:                 10s
+===============================================================
+2021/01/01 11:51:14 Starting gobuster in directory enumeration mode
+===============================================================
+/images               (Status: 301) [Size: 234] [--> http://10.10.31.57/images/]
+/blog                 (Status: 301) [Size: 232] [--> http://10.10.31.57/blog/]  
+/rss                  (Status: 301) [Size: 0] [--> http://10.10.31.57/feed/]    
+/sitemap              (Status: 200) [Size: 0]                                   
+/login                (Status: 302) [Size: 0] [--> http://10.10.31.57/wp-login.php]
+/0                    (Status: 301) [Size: 0] [--> http://10.10.31.57/0/]          
+/feed                 (Status: 301) [Size: 0] [--> http://10.10.31.57/feed/]       
+/video                (Status: 301) [Size: 233] [--> http://10.10.31.57/video/]    
+/image                (Status: 301) [Size: 0] [--> http://10.10.31.57/image/]      
+/atom                 (Status: 301) [Size: 0] [--> http://10.10.31.57/feed/atom/]  
+/wp-content           (Status: 301) [Size: 238] [--> http://10.10.31.57/wp-content/]
+/admin                (Status: 301) [Size: 233] [--> http://10.10.31.57/admin/]     
+/audio                (Status: 301) [Size: 233] [--> http://10.10.31.57/audio/]     
+/intro                (Status: 200) [Size: 516314]                                  
+/wp-login             (Status: 200) [Size: 2599]                                    
+/css                  (Status: 301) [Size: 231] [--> http://10.10.31.57/css/]       
+/rss2                 (Status: 301) [Size: 0] [--> http://10.10.31.57/feed/]        
+/license              (Status: 200) [Size: 309]                                     
+/wp-includes          (Status: 301) [Size: 239] [--> http://10.10.31.57/wp-includes/]
+/js                   (Status: 301) [Size: 230] [--> http://10.10.31.57/js/]         
+/Image                (Status: 301) [Size: 0] [--> http://10.10.31.57/Image/]        
+/rdf                  (Status: 301) [Size: 0] [--> http://10.10.31.57/feed/rdf/]     
+/page1                (Status: 301) [Size: 0] [--> http://10.10.31.57/]              
+/readme               (Status: 200) [Size: 64]                                       
+/robots               (Status: 200) [Size: 41]                                       
+/dashboard            (Status: 302) [Size: 0] [--> http://10.10.31.57/wp-admin/]     
+/%20                  (Status: 301) [Size: 0] [--> http://10.10.31.57/]              
+/wp-admin             (Status: 301) [Size: 236] [--> http://10.10.31.57/wp-admin/]   
+/phpmyadmin           (Status: 403) [Size: 94]                                       
+/0000                 (Status: 301) [Size: 0] [--> http://10.10.31.57/0000/]         
