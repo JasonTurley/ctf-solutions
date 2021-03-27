@@ -1,0 +1,21 @@
+# Nmap 7.91 scan initiated Sat Mar 27 12:38:08 2021 as: nmap -A -T4 -p- -oN nmap_scan.txt 10.10.10.95
+Nmap scan report for 10.10.10.95
+Host is up (0.13s latency).
+Not shown: 65534 filtered ports
+PORT     STATE SERVICE VERSION
+8080/tcp open  http    Apache Tomcat/Coyote JSP engine 1.1
+|_http-favicon: Apache Tomcat
+|_http-server-header: Apache-Coyote/1.1
+|_http-title: Apache Tomcat/7.0.88
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Microsoft Windows Server 2012 (91%), Microsoft Windows Server 2012 or Windows Server 2012 R2 (91%), Microsoft Windows Server 2012 R2 (91%), Microsoft Windows 7 Professional (87%), Microsoft Windows 8.1 Update 1 (86%), Microsoft Windows Phone 7.5 or 8.0 (86%), Microsoft Windows 7 or Windows Server 2008 R2 (85%), Microsoft Windows Server 2008 R2 (85%), Microsoft Windows Server 2008 R2 or Windows 8.1 (85%), Microsoft Windows Server 2008 R2 SP1 or Windows 8 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 2 hops
+
+TRACEROUTE (using port 8080/tcp)
+HOP RTT       ADDRESS
+1   133.70 ms 10.10.14.1
+2   136.51 ms 10.10.10.95
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Mar 27 12:41:11 2021 -- 1 IP address (1 host up) scanned in 185.21 seconds
