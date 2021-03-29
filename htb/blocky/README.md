@@ -113,43 +113,50 @@ SourceFile
 BlockyCore.java
 ```
 
-## Initial Foothold (rabbit-hole)
-
 We see the username `root` and password `8YsqfCTnvxAUeduzjNSXe22`! I used these
-credentials to log into the /phpmyadmin page, but not the /wp-login page.
+credentials to log into the /phpmyadmin page, but they did not work on the
+/wp-login page.
 
 In the phpmyadmin panel I found the below user information:
 
 ![wp_users](./screenshots/wp_users.png)
 
-There's the password hash for the Notch user! This hash could not be cracked
-with crackstation, so I googled "$P$ hash" and found [this StackOverflow
-post](https://stackoverflow.com/questions/1045988/what-type-of-hash-does-wordpress-use).
+There's the password hash for the Notch user!
 
-It states that this has uses the [portable PHP password hashing
+[CrackStation](https://crackstation.net/) was unable to crack this, so I
+searched online for "$P$ hash". 
+I found [this StackOverflow
+post](https://stackoverflow.com/questions/1045988/what-type-of-hash-does-wordpress-use)
+that states WordPress uses the [portable PHP password hashing
 framework](https://www.openwall.com/phpass/).
 
 I figured if I could login to the wp-login page, I could upload a PHP reverse
 shell and compromise the machine. I went down a rabbit hole trying to crack
-Notch's password with a python script I pulled from GitHub. 
+Notch's password with this [Python script I pulled from
+GitHub](https://github.com/micahflee/phpass_crack). 
 
-This did not work. Next, I tried changing Notch's password in the phpmyadmin
+This did not work. Next, I tried changing Notch's password to "password "in the
+phpmyadmin
 panel:
 
 ![edit password](./screenshots/edit.png)
 
+However, this did not work either - I still could not login to the WordPress
+account! At this point I gave up on the WordPress website and moved on to
+exploring the FTP and SSH servers.
+
 ## Initial Foothold (success)
 
-Even after this edit I could not log into the WordPress page! So I gave up on
-the web server and tried FTP and SSH. I was able to log into both with the
-credentials **notch:8YsqfCTnvxAUeduzjNSXe22**!
+Using the credentials **notch:8YsqfCTnvxAUeduzjNSXe22** I successfully logged
+into the FTP and SSH servers.
 
-In either the FTP or SSH server, the user flag is found in the `user.txt` file.
+The user flag is found in the `user.txt` file.
 
 ## Privilege Escalation
 
 Now we need to find the root flag. One privilege escalation technique that I
-always start with it `sudo -l` to list what, if any, commands the current user
+always start with is running `sudo -l` to list what, if any, commands the
+current user
 can run as root.
 
 ```
@@ -168,10 +175,3 @@ The "(ALL : ALL) ALL" means we can run all commands as root! So we can easily
 ```
 $ sudo cat /root/root.txt
 ```
-
-## Conclusion
-
-I went down a rabbit hole with trying to crack Notch's WordPress password. Even
-though I was unsuccessful, I learn a couple things from it:
-- WordPress replaced md5 hashes with portable PHP hashes
-- [There is a GitHub repo for cracking php hashes](https://github.com/micahflee/phpass_crack)
