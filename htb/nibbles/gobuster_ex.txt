@@ -1,0 +1,28 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.10.75/nibbleblog
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Extensions:              php,txt
+[+] Timeout:                 10s
+===============================================================
+2021/03/28 20:58:30 Starting gobuster in directory enumeration mode
+===============================================================
+/index.php            (Status: 200) [Size: 2987]
+/sitemap.php          (Status: 200) [Size: 402] 
+/content              (Status: 301) [Size: 323] [--> http://10.10.10.75/nibbleblog/content/]
+/feed.php             (Status: 200) [Size: 302]                                             
+/themes               (Status: 301) [Size: 322] [--> http://10.10.10.75/nibbleblog/themes/] 
+/admin                (Status: 301) [Size: 321] [--> http://10.10.10.75/nibbleblog/admin/]  
+/admin.php            (Status: 200) [Size: 1401]                                            
+/plugins              (Status: 301) [Size: 323] [--> http://10.10.10.75/nibbleblog/plugins/]
+/install.php          (Status: 200) [Size: 78]                                              
+/update.php           (Status: 200) [Size: 1622]                                            
+/README               (Status: 200) [Size: 4628]                                            
+/languages            (Status: 301) [Size: 325] [--> http://10.10.10.75/nibbleblog/languages/]
+/LICENSE.txt          (Status: 200) [Size: 35148]                                             
