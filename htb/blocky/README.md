@@ -60,7 +60,7 @@ $ gobuster dir -u http://10.10.10.37 -w /usr/share/wordlists/dirbuster/directory
 /wp-includes          (Status: 301) [Size: 316] [--> http://10.10.10.37/wp-includes/]
 /javascript           (Status: 301) [Size: 315] [--> http://10.10.10.37/javascript/] 
 /wp-admin             (Status: 301) [Size: 313] [--> http://10.10.10.37/wp-admin/]   
-/phpmyadmin           (Status: 301) [Size: 315] [--> http://10.10.10.37/phpmyadmin/
+/phpmyadmin           (Status: 301) [Size: 315] [--> http://10.10.10.37/phpmyadmin/]
 ```
 
 Looks like we can login to either /wp-admin or /phpmyadmin. At this point, we
