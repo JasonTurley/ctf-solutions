@@ -138,7 +138,7 @@ panel:
 
 ![edit password](./screenshots/edit.png)
 
-## Initial Foothold (sucess)
+## Initial Foothold (success)
 
 Even after this edit I could not log into the WordPress page! So I gave up on
 the web server and tried FTP and SSH. I was able to log into both with the
