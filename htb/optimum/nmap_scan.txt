@@ -1,0 +1,16 @@
+# Nmap 7.91 scan initiated Thu Apr  1 13:29:37 2021 as: nmap -sV -sC -p- -T4 -oN nmap_scan.txt 10.10.10.8
+Nmap scan report for 10.10.10.8
+Host is up (0.15s latency).
+Not shown: 65534 filtered ports
+PORT   STATE SERVICE VERSION
+80/tcp open  http    HttpFileServer httpd 2.3
+|_http-favicon: Unknown favicon MD5: 759792EDD4EF8E6BC2D1877D27153CB1
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-server-header: HFS 2.3
+|_http-title: HFS /
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Apr  1 13:32:20 2021 -- 1 IP address (1 host up) scanned in 163.22 seconds
