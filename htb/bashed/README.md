@@ -86,8 +86,8 @@ User www-data may run the following commands on bashed:
     (scriptmanager : scriptmanager) NOPASSWD: ALL
 ```
 
-I could not locate a `scriptmanager` binary, so I moved on to a different
-technique.
+I was having issues with scriptmanager, so I tried a different privilege
+escalation technique.
 
 Let's check out the kernel release and version information:
 
