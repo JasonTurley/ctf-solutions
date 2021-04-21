@@ -12,7 +12,7 @@
 We are given the x86 assembly instructions for a function called asm1. I
 added comments to get a better sense of what this function is doing:
 
-```
+```assembly
 # ebp+0x8 stores function argument no. 1
 # not sure what value is in ebp+0x8
 asm1:
@@ -47,7 +47,7 @@ is being passed as an argument.
 After knowing what value to work with, find the output became trivial. I have
 included the code flow below:
 
-```
+```assembly
 asm1:
 	<+0>:	push   ebp				; set up the stack frame
 	<+1>:	mov    ebp,esp
