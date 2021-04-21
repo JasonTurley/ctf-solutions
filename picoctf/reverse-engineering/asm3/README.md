@@ -12,7 +12,7 @@ question will NOT be in the normal flag format.
 ## Source Code
 Comments added:
 
-```
+```assembly
 asm3(0xd2c26416,0xe6cf51f0,0xe54409d5) --> asm3(3535954966, 3872346608, 3846441429)
 
 asm3:
@@ -36,7 +36,8 @@ Dvd848](https://github.com/Dvd848/CTFs/blob/master/2019_picoCTF/asm3.md).
 
 ### Compile and Run
 Modify ```test.S```:
-```
+
+```assembly
 .intel_syntax noprefix
 .global asm3
 
@@ -55,7 +56,8 @@ asm3:
 ```
 
 Next, create ```main.c```:
-```
+
+```c
 #include <stdio.h>
 
 int asm3(int, int, int);
@@ -67,7 +69,7 @@ int main() {
 ```
 
 Finally, compile and run:
-```
+```console
 jason@lapras:$ gcc -masm=intel -m32 -c test.S -o test.o
 jason@lapras:$ gcc -m32 -c main.c -o main.o
 jason@lapras:$ gcc -m32 test.o main.o -o main
