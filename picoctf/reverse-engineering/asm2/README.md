@@ -10,7 +10,7 @@
 ## Source Code
 I added my own comments:
 
-```
+```assembly
 # asm2(0x4, 0x21) --> asm2(4, 33)
 
 asm2:
