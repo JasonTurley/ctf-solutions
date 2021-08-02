@@ -1,0 +1,23 @@
+# Nmap 7.91 scan initiated Thu Jun  3 19:36:31 2021 as: nmap -sV -p80,135,139,443,445,3306,8080,49152,49153,49158,49159,49160 -oN nmap_version_scan.txt -vv 10.10.65.87
+Nmap scan report for 10.10.65.87
+Host is up, received syn-ack (0.34s latency).
+Scanned at 2021-06-03 19:36:32 EDT for 70s
+
+PORT      STATE SERVICE      REASON  VERSION
+80/tcp    open  http         syn-ack Microsoft IIS httpd 7.5
+135/tcp   open  msrpc        syn-ack Microsoft Windows RPC
+139/tcp   open  netbios-ssn  syn-ack Microsoft Windows netbios-ssn
+443/tcp   open  ssl/http     syn-ack Apache httpd 2.4.23 (OpenSSL/1.0.2h PHP/5.6.28)
+445/tcp   open  microsoft-ds syn-ack Microsoft Windows 7 - 10 microsoft-ds (workgroup: WORKGROUP)
+3306/tcp  open  mysql        syn-ack MariaDB (unauthorized)
+8080/tcp  open  http         syn-ack Apache httpd 2.4.23 (OpenSSL/1.0.2h PHP/5.6.28)
+49152/tcp open  msrpc        syn-ack Microsoft Windows RPC
+49153/tcp open  msrpc        syn-ack Microsoft Windows RPC
+49158/tcp open  msrpc        syn-ack Microsoft Windows RPC
+49159/tcp open  msrpc        syn-ack Microsoft Windows RPC
+49160/tcp open  msrpc        syn-ack Microsoft Windows RPC
+Service Info: Hosts: www.example.com, BLUEPRINT, localhost; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Jun  3 19:37:42 2021 -- 1 IP address (1 host up) scanned in 71.51 seconds

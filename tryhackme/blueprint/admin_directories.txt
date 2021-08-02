@@ -1,0 +1,3379 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 14AF-C52C
+
+ Directory of C:\Users\Administrator
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Contacts
+11/27/2019  07:15 PM    <DIR>          Desktop
+04/11/2019  11:36 PM    <DIR>          Documents
+04/11/2019  11:45 PM    <DIR>          Downloads
+04/11/2019  11:36 PM    <DIR>          Favorites
+04/11/2019  11:36 PM    <DIR>          Links
+04/11/2019  11:36 PM    <DIR>          Music
+04/11/2019  11:36 PM    <DIR>          Pictures
+04/11/2019  11:36 PM    <DIR>          Saved Games
+04/11/2019  11:36 PM    <DIR>          Searches
+04/11/2019  11:36 PM    <DIR>          Videos
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData
+
+04/11/2019  11:41 PM    <DIR>          Local
+04/11/2019  11:39 PM    <DIR>          LocalLow
+04/11/2019  11:36 PM    <DIR>          Roaming
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local
+
+04/11/2019  11:41 PM    <DIR>          .
+04/11/2019  11:41 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Apps
+04/11/2019  11:40 PM    <DIR>          Deployment
+04/11/2019  11:40 PM            57,560 GDIPFONTCACHEV1.DAT
+04/11/2019  11:40 PM    <DIR>          Google
+04/11/2019  11:36 PM    <DIR>          Microsoft
+04/11/2019  11:44 PM    <DIR>          Temp
+               1 File(s)         57,560 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          2.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Data
+04/11/2019  11:40 PM    <DIR>          M3XNNR5Q.D24
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\Data
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          DNY7Q2E7.2HA
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\Data\DNY7Q2E7.2HA
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          OPROGDA4.J22
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\Data\DNY7Q2E7.2HA\OPROGDA4.J22
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          goog...app_9ae46cec200785df_0001.0003_094c3a6eb0044d95
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\Data\DNY7Q2E7.2HA\OPROGDA4.J22\goog...app_9ae46cec200785df_0001.0003_094c3a6eb0044d95
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Data
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\Data\DNY7Q2E7.2HA\OPROGDA4.J22\goog...app_9ae46cec200785df_0001.0003_094c3a6eb0044d95\Data
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\M3XNNR5Q.D24
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          KKLK0CZT.ZON
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\M3XNNR5Q.D24\KKLK0CZT.ZON
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          clic...exe_9ae46cec200785df_0001.0003_none_d631acba18f736d8
+04/11/2019  11:40 PM    <DIR>          goog...app_9ae46cec200785df_0001.0003_094c3a6eb0044d95
+04/11/2019  11:40 PM    <DIR>          manifests
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\M3XNNR5Q.D24\KKLK0CZT.ZON\clic...exe_9ae46cec200785df_0001.0003_none_d631acba18f736d8
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM         1,214,008 GoogleUpdateSetup.exe
+               1 File(s)      1,214,008 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\M3XNNR5Q.D24\KKLK0CZT.ZON\goog...app_9ae46cec200785df_0001.0003_094c3a6eb0044d95
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            19,240 clickonce_bootstrap.exe
+04/11/2019  11:40 PM            20,144 clickonce_bootstrap.exe.cdf-ms
+04/11/2019  11:40 PM            16,673 clickonce_bootstrap.exe.manifest
+04/11/2019  11:40 PM             3,808 clickonce_bootstrap_unsigned.cdf-ms
+04/11/2019  11:40 PM             1,376 clickonce_bootstrap_unsigned.manifest
+04/11/2019  11:40 PM         1,214,008 GoogleUpdateSetup.exe
+               6 File(s)      1,275,249 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Apps\2.0\M3XNNR5Q.D24\KKLK0CZT.ZON\manifests
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            20,144 clic...exe_9ae46cec200785df_0001.0003_none_d631acba18f736d8.cdf-ms
+04/11/2019  11:40 PM            16,673 clic...exe_9ae46cec200785df_0001.0003_none_d631acba18f736d8.manifest
+04/11/2019  11:40 PM            17,548 goog...app_9ae46cec200785df_0001.0003_none_313a7db2625639fa.cdf-ms
+04/11/2019  11:40 PM            14,854 goog...app_9ae46cec200785df_0001.0003_none_313a7db2625639fa.manifest
+               4 File(s)         69,219 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Deployment
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Chrome
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:48 PM    <DIR>          User Data
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data
+
+04/11/2019  11:48 PM    <DIR>          .
+04/11/2019  11:48 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          BrowserMetrics
+04/11/2019  11:45 PM         4,194,304 BrowserMetrics-spare.pma
+04/11/2019  11:40 PM    <DIR>          CertificateRevocation
+04/11/2019  11:40 PM    <DIR>          CertificateTransparency
+04/11/2019  11:40 PM    <DIR>          Crashpad
+04/11/2019  11:44 PM         1,048,576 CrashpadMetrics-active.pma
+04/11/2019  11:48 PM    <DIR>          Default
+04/11/2019  11:40 PM    <DIR>          FileTypePolicies
+04/11/2019  11:40 PM                 0 First Run
+04/11/2019  11:40 PM    <DIR>          InterventionPolicyDatabase
+04/11/2019  11:44 PM                13 Last Version
+04/11/2019  11:48 PM            53,596 Local State
+04/11/2019  11:40 PM    <DIR>          MEIPreload
+04/11/2019  11:40 PM    <DIR>          OriginTrials
+04/11/2019  11:40 PM    <DIR>          PepperFlash
+04/11/2019  11:40 PM    <DIR>          pnacl
+04/11/2019  11:40 PM    <DIR>          RecoveryImproved
+04/11/2019  11:40 PM    <DIR>          Safe Browsing
+04/11/2019  11:40 PM    <DIR>          ShaderCache
+04/11/2019  11:40 PM    <DIR>          SSLErrorAssistant
+04/11/2019  11:40 PM    <DIR>          Subresource Filter
+04/11/2019  11:40 PM    <DIR>          SwReporter
+04/11/2019  11:40 PM    <DIR>          WidevineCdm
+               5 File(s)      5,296,489 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\BrowserMetrics
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM         4,194,304 BrowserMetrics-5CAFC342-E60.pma
+               1 File(s)      4,194,304 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\CertificateRevocation
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\CertificateTransparency
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM                 0 metadata
+04/11/2019  11:40 PM    <DIR>          reports
+04/11/2019  11:45 PM                40 settings.dat
+               2 File(s)             40 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default
+
+04/11/2019  11:48 PM    <DIR>          .
+04/11/2019  11:48 PM    <DIR>          ..
+04/11/2019  11:45 PM             3,885 000003.log
+04/11/2019  11:44 PM    <DIR>          blob_storage
+04/11/2019  11:44 PM    <DIR>          BudgetDatabase
+04/11/2019  11:45 PM    <DIR>          Cache
+04/11/2019  11:40 PM    <DIR>          Code Cache
+04/11/2019  11:45 PM            32,768 Cookies
+04/11/2019  11:45 PM                 0 Cookies-journal
+04/11/2019  11:45 PM                16 CURRENT
+04/11/2019  11:45 PM            15,504 Current Session
+04/11/2019  11:44 PM    <DIR>          data_reduction_proxy_leveldb
+04/11/2019  11:44 PM    <DIR>          Extension Rules
+04/11/2019  11:44 PM    <DIR>          Extension State
+04/11/2019  11:44 PM    <DIR>          Extensions
+04/11/2019  11:44 PM            24,576 Favicons
+04/11/2019  11:44 PM                 0 Favicons-journal
+04/11/2019  11:40 PM           181,072 Google Profile.ico
+04/11/2019  11:40 PM    <DIR>          GPUCache
+04/11/2019  11:46 PM           118,784 History
+04/11/2019  11:46 PM                 0 History-journal
+04/11/2019  11:40 PM               557 Last Session
+04/11/2019  11:40 PM    <DIR>          Local Storage
+04/11/2019  11:45 PM                 0 LOCK
+04/11/2019  11:45 PM                45 LOG
+04/11/2019  11:44 PM            22,528 Login Data
+04/11/2019  11:44 PM                 0 Login Data-journal
+04/11/2019  11:45 PM                50 MANIFEST-000002
+04/11/2019  11:46 PM            36,864 Network Action Predictor
+04/11/2019  11:46 PM                 0 Network Action Predictor-journal
+04/11/2019  11:46 PM             4,620 Network Persistent State
+04/11/2019  11:40 PM            16,384 page_load_capping_opt_out.db
+04/11/2019  11:40 PM                 0 page_load_capping_opt_out.db-journal
+04/11/2019  11:48 PM             5,113 Preferences
+04/11/2019  11:40 PM            16,384 previews_opt_out.db
+04/11/2019  11:40 PM                 0 previews_opt_out.db-journal
+04/11/2019  11:44 PM            26,269 Secure Preferences
+04/11/2019  11:44 PM    <DIR>          Session Storage
+04/11/2019  11:44 PM            20,480 Shortcuts
+04/11/2019  11:44 PM                 0 Shortcuts-journal
+04/11/2019  11:44 PM    <DIR>          Site Characteristics Database
+04/11/2019  11:40 PM    <DIR>          Storage
+04/11/2019  11:40 PM    <DIR>          Sync Data
+04/11/2019  11:40 PM    <DIR>          Sync Extension Settings
+04/11/2019  11:40 PM            20,480 Top Sites
+04/11/2019  11:40 PM                 0 Top Sites-journal
+04/11/2019  11:40 PM             2,537 Translate Ranker Model
+04/11/2019  11:45 PM             2,541 TransportSecurity
+04/11/2019  11:48 PM           131,072 Visited Links
+04/11/2019  11:44 PM            69,632 Web Data
+04/11/2019  11:44 PM                 0 Web Data-journal
+              34 File(s)        752,161 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\blob_storage
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          bbd7e85f-cd64-49cc-a15b-21146e48cf81
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\blob_storage\bbd7e85f-cd64-49cc-a15b-21146e48cf81
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\BudgetDatabase
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM                 0 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               331 LOG
+04/11/2019  11:40 PM               146 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)            534 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Cache
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:48 PM            45,056 data_0
+04/11/2019  11:48 PM           270,336 data_1
+04/11/2019  11:48 PM         1,056,768 data_2
+04/11/2019  11:48 PM         4,202,496 data_3
+04/11/2019  11:44 PM            40,127 f_000001
+04/11/2019  11:44 PM            39,990 f_000002
+04/11/2019  11:44 PM            49,533 f_000003
+04/11/2019  11:44 PM           106,083 f_000004
+04/11/2019  11:44 PM            16,786 f_000005
+04/11/2019  11:44 PM           141,937 f_000006
+04/11/2019  11:44 PM            49,705 f_000007
+04/11/2019  11:44 PM            92,443 f_000008
+04/11/2019  11:44 PM            49,577 f_000009
+04/11/2019  11:44 PM            53,509 f_00000a
+04/11/2019  11:44 PM           137,021 f_00000b
+04/11/2019  11:44 PM            86,927 f_00000c
+04/11/2019  11:44 PM            18,058 f_00000d
+04/11/2019  11:44 PM            21,538 f_00000e
+04/11/2019  11:44 PM            33,384 f_00000f
+04/11/2019  11:44 PM            22,376 f_000010
+04/11/2019  11:44 PM            17,543 f_000011
+04/11/2019  11:44 PM            17,174 f_000012
+04/11/2019  11:45 PM            20,749 f_000013
+04/11/2019  11:45 PM            47,752 f_000014
+04/11/2019  11:45 PM           448,400 f_000015
+04/11/2019  11:45 PM            20,736 f_000016
+04/11/2019  11:40 PM           262,512 index
+              27 File(s)      7,368,516 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Code Cache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:45 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:44 PM               614 0d6af7f63668d0e2_0
+04/11/2019  11:44 PM               454 20f4d298e2fe0a4a_0
+04/11/2019  11:45 PM           279,949 3e404fbcde2aa08d_0
+04/11/2019  11:44 PM               342 459acb999b5b735b_0
+04/11/2019  11:45 PM               418 470accaf9e477f53_0
+04/11/2019  11:44 PM               282 4ea14ff0e481c02a_0
+04/11/2019  11:44 PM               323 502a3edb0524aa20_0
+04/11/2019  11:44 PM               652 51d39f5ad28739ab_0
+04/11/2019  11:45 PM            77,929 62f19f50899e0c8c_0
+04/11/2019  11:45 PM             9,349 71d235062d90f7d5_0
+04/11/2019  11:44 PM               385 739b96f81471e271_0
+04/11/2019  11:45 PM             3,161 7bd68bcca1af8059_0
+04/11/2019  11:45 PM               418 7d4747b01ff67971_0
+04/11/2019  11:45 PM            19,794 85509db6016f0728_0
+04/11/2019  11:45 PM               310 88380f95038df868_0
+04/11/2019  11:45 PM            39,864 a427860bca0ae4c4_0
+04/11/2019  11:45 PM             1,189 b31c7853b4d394af_0
+04/11/2019  11:45 PM             6,622 b531a6dfeab39ed5_0
+04/11/2019  11:45 PM           101,134 bfe85b974f178f92_0
+04/11/2019  11:45 PM             1,743 ccb64c3eba2d3ab9_0
+04/11/2019  11:45 PM            23,356 d0352fa0f14090cd_0
+04/11/2019  11:44 PM               631 e01633fcdee295a4_0
+04/11/2019  11:45 PM             2,817 e5daa5e5c8fadef2_0
+04/11/2019  11:45 PM             1,136 eaad3e256c975806_0
+04/11/2019  11:45 PM             4,549 f4d35ffc7bb39107_0
+04/11/2019  11:45 PM               215 fbb67a222833ae28_0
+04/11/2019  11:45 PM           111,167 fd3915a72dfb6767_0
+04/11/2019  11:40 PM                24 index
+04/11/2019  11:45 PM    <DIR>          index-dir
+              28 File(s)        688,827 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index-dir
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:45 PM               696 the-real-index
+               1 File(s)            696 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\data_reduction_proxy_leveldb
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM                 0 000005.log
+04/11/2019  11:44 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               136 LOG
+04/11/2019  11:40 PM                46 LOG.old
+04/11/2019  11:44 PM                50 MANIFEST-000004
+               6 File(s)            248 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extension Rules
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:48 PM                76 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               333 LOG
+04/11/2019  11:40 PM               147 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)            613 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extension State
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:48 PM               627 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               333 LOG
+04/11/2019  11:40 PM               147 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)          1,164 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          aapocclcgogkmnckokdopfmhonfmgoek
+04/11/2019  11:44 PM    <DIR>          nmmhkkegccagdldgiimedpiccmgmieda
+04/11/2019  11:40 PM    <DIR>          pjkljhegncpnkpknbcohdijeoejaedia
+04/11/2019  11:40 PM    <DIR>          pkedcjkdefgpdelpbcmbmeomcjbeemfm
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          0.10_0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             3,372 icon_128.png
+04/11/2019  11:40 PM               160 icon_16.png
+10/05/2017  12:01 PM                92 main.html
+10/05/2017  12:01 PM                95 main.js
+04/11/2019  11:40 PM               726 manifest.json
+04/11/2019  11:40 PM    <DIR>          _locales
+04/11/2019  11:40 PM    <DIR>          _metadata
+               5 File(s)          4,445 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          ar
+04/11/2019  11:40 PM    <DIR>          bg
+04/11/2019  11:40 PM    <DIR>          ca
+04/11/2019  11:40 PM    <DIR>          cs
+04/11/2019  11:40 PM    <DIR>          da
+04/11/2019  11:40 PM    <DIR>          de
+04/11/2019  11:40 PM    <DIR>          el
+04/11/2019  11:40 PM    <DIR>          en_GB
+04/11/2019  11:40 PM    <DIR>          en_US
+04/11/2019  11:40 PM    <DIR>          es
+04/11/2019  11:40 PM    <DIR>          es_419
+04/11/2019  11:40 PM    <DIR>          et
+04/11/2019  11:40 PM    <DIR>          fi
+04/11/2019  11:40 PM    <DIR>          fil
+04/11/2019  11:40 PM    <DIR>          fr
+04/11/2019  11:40 PM    <DIR>          he
+04/11/2019  11:40 PM    <DIR>          hi
+04/11/2019  11:40 PM    <DIR>          hu
+04/11/2019  11:40 PM    <DIR>          id
+04/11/2019  11:40 PM    <DIR>          it
+04/11/2019  11:40 PM    <DIR>          ja
+04/11/2019  11:40 PM    <DIR>          ko
+04/11/2019  11:40 PM    <DIR>          lt
+04/11/2019  11:40 PM    <DIR>          lv
+04/11/2019  11:40 PM    <DIR>          ms
+04/11/2019  11:40 PM    <DIR>          nl
+04/11/2019  11:40 PM    <DIR>          no
+04/11/2019  11:40 PM    <DIR>          pl
+04/11/2019  11:40 PM    <DIR>          pt_BR
+04/11/2019  11:40 PM    <DIR>          pt_PT
+04/11/2019  11:40 PM    <DIR>          ro
+04/11/2019  11:40 PM    <DIR>          ru
+04/11/2019  11:40 PM    <DIR>          sk
+04/11/2019  11:40 PM    <DIR>          sl
+04/11/2019  11:40 PM    <DIR>          sr
+04/11/2019  11:40 PM    <DIR>          sv
+04/11/2019  11:40 PM    <DIR>          th
+04/11/2019  11:40 PM    <DIR>          tr
+04/11/2019  11:40 PM    <DIR>          uk
+04/11/2019  11:40 PM    <DIR>          vi
+04/11/2019  11:40 PM    <DIR>          zh_CN
+04/11/2019  11:40 PM    <DIR>          zh_TW
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ar
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               185 messages.json
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\bg
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               188 messages.json
+               1 File(s)            188 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ca
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               134 messages.json
+               1 File(s)            134 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\cs
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               141 messages.json
+               1 File(s)            141 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\da
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               133 messages.json
+               1 File(s)            133 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\de
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               155 messages.json
+               1 File(s)            155 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\el
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               194 messages.json
+               1 File(s)            194 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\en_GB
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               130 messages.json
+               1 File(s)            130 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\en_US
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               208 messages.json
+               1 File(s)            208 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\es
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               138 messages.json
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\es_419
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               136 messages.json
+               1 File(s)            136 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\et
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               133 messages.json
+               1 File(s)            133 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\fi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               127 messages.json
+               1 File(s)            127 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\fil
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               143 messages.json
+               1 File(s)            143 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\fr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               138 messages.json
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\he
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               140 messages.json
+               1 File(s)            140 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\hi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               217 messages.json
+               1 File(s)            217 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\hu
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               146 messages.json
+               1 File(s)            146 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\id
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               131 messages.json
+               1 File(s)            131 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\it
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               137 messages.json
+               1 File(s)            137 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ja
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               158 messages.json
+               1 File(s)            158 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ko
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               152 messages.json
+               1 File(s)            152 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\lt
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               138 messages.json
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\lv
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               150 messages.json
+               1 File(s)            150 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ms
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               126 messages.json
+               1 File(s)            126 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\nl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               137 messages.json
+               1 File(s)            137 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\no
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+10/05/2017  12:01 PM                99 messages.json
+               1 File(s)             99 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\pl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               140 messages.json
+               1 File(s)            140 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\pt_BR
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               138 messages.json
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\pt_PT
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               140 messages.json
+               1 File(s)            140 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ro
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               138 messages.json
+               1 File(s)            138 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\ru
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               189 messages.json
+               1 File(s)            189 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\sk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               143 messages.json
+               1 File(s)            143 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\sl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               140 messages.json
+               1 File(s)            140 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\sr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               199 messages.json
+               1 File(s)            199 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\sv
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               142 messages.json
+               1 File(s)            142 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\th
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               176 messages.json
+               1 File(s)            176 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\tr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               136 messages.json
+               1 File(s)            136 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\uk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               184 messages.json
+               1 File(s)            184 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\vi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               153 messages.json
+               1 File(s)            153 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\zh_CN
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               131 messages.json
+               1 File(s)            131 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_locales\zh_TW
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               122 messages.json
+               1 File(s)            122 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\aapocclcgogkmnckokdopfmhonfmgoek\0.10_0\_metadata
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               352 computed_hashes.json
+10/05/2017  12:01 PM             6,910 verified_contents.json
+               2 File(s)          7,262 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          1.0.0.4_0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+03/19/2018  12:21 PM           181,809 craw_background.js
+03/19/2018  12:21 PM           252,485 craw_window.js
+04/11/2019  11:44 PM    <DIR>          css
+04/11/2019  11:44 PM    <DIR>          html
+04/11/2019  11:44 PM    <DIR>          images
+04/11/2019  11:44 PM             1,322 manifest.json
+04/11/2019  11:44 PM    <DIR>          _locales
+04/11/2019  11:44 PM    <DIR>          _metadata
+               3 File(s)        435,616 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\css
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+10/07/2013  12:22 PM             1,741 craw_window.css
+               1 File(s)          1,741 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\html
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+08/07/2013  01:33 PM               810 craw_window.html
+               1 File(s)            810 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\images
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+08/07/2013  01:33 PM            70,364 flapper.gif
+04/11/2019  11:44 PM             4,364 icon_128.png
+04/11/2019  11:44 PM               558 icon_16.png
+08/07/2013  01:33 PM               160 topbar_floating_button.png
+08/07/2013  01:33 PM               252 topbar_floating_button_close.png
+08/07/2013  01:33 PM               160 topbar_floating_button_hover.png
+08/07/2013  01:33 PM               166 topbar_floating_button_maximize.png
+08/07/2013  01:33 PM               160 topbar_floating_button_pressed.png
+               8 File(s)         76,184 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          bg
+04/11/2019  11:44 PM    <DIR>          ca
+04/11/2019  11:44 PM    <DIR>          cs
+04/11/2019  11:44 PM    <DIR>          da
+04/11/2019  11:44 PM    <DIR>          de
+04/11/2019  11:44 PM    <DIR>          el
+04/11/2019  11:44 PM    <DIR>          en
+04/11/2019  11:44 PM    <DIR>          en_GB
+04/11/2019  11:44 PM    <DIR>          es
+04/11/2019  11:44 PM    <DIR>          es_419
+04/11/2019  11:44 PM    <DIR>          et
+04/11/2019  11:44 PM    <DIR>          fi
+04/11/2019  11:44 PM    <DIR>          fil
+04/11/2019  11:44 PM    <DIR>          fr
+04/11/2019  11:44 PM    <DIR>          hi
+04/11/2019  11:44 PM    <DIR>          hr
+04/11/2019  11:44 PM    <DIR>          hu
+04/11/2019  11:44 PM    <DIR>          id
+04/11/2019  11:44 PM    <DIR>          it
+04/11/2019  11:44 PM    <DIR>          ja
+04/11/2019  11:44 PM    <DIR>          ko
+04/11/2019  11:44 PM    <DIR>          lt
+04/11/2019  11:44 PM    <DIR>          lv
+04/11/2019  11:44 PM    <DIR>          nb
+04/11/2019  11:44 PM    <DIR>          nl
+04/11/2019  11:44 PM    <DIR>          pl
+04/11/2019  11:44 PM    <DIR>          pt_BR
+04/11/2019  11:44 PM    <DIR>          pt_PT
+04/11/2019  11:44 PM    <DIR>          ro
+04/11/2019  11:44 PM    <DIR>          ru
+04/11/2019  11:44 PM    <DIR>          sk
+04/11/2019  11:44 PM    <DIR>          sl
+04/11/2019  11:44 PM    <DIR>          sr
+04/11/2019  11:44 PM    <DIR>          sv
+04/11/2019  11:44 PM    <DIR>          th
+04/11/2019  11:44 PM    <DIR>          tr
+04/11/2019  11:44 PM    <DIR>          uk
+04/11/2019  11:44 PM    <DIR>          vi
+04/11/2019  11:44 PM    <DIR>          zh_CN
+04/11/2019  11:44 PM    <DIR>          zh_TW
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\bg
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               886 messages.json
+               1 File(s)            886 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\ca
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               705 messages.json
+               1 File(s)            705 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\cs
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               663 messages.json
+               1 File(s)            663 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\da
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               642 messages.json
+               1 File(s)            642 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\de
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               701 messages.json
+               1 File(s)            701 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\el
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               875 messages.json
+               1 File(s)            875 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\en
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               617 messages.json
+               1 File(s)            617 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\en_GB
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               617 messages.json
+               1 File(s)            617 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\es
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               696 messages.json
+               1 File(s)            696 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\es_419
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               667 messages.json
+               1 File(s)            667 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\et
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               609 messages.json
+               1 File(s)            609 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\fi
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               673 messages.json
+               1 File(s)            673 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\fil
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               692 messages.json
+               1 File(s)            692 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\fr
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               708 messages.json
+               1 File(s)            708 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\hi
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               941 messages.json
+               1 File(s)            941 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\hr
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               633 messages.json
+               1 File(s)            633 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\hu
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               710 messages.json
+               1 File(s)            710 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\id
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               617 messages.json
+               1 File(s)            617 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\it
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               622 messages.json
+               1 File(s)            622 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\ja
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               778 messages.json
+               1 File(s)            778 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\ko
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               669 messages.json
+               1 File(s)            669 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\lt
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               686 messages.json
+               1 File(s)            686 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\lv
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               699 messages.json
+               1 File(s)            699 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\nb
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               644 messages.json
+               1 File(s)            644 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\nl
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               642 messages.json
+               1 File(s)            642 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\pl
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               666 messages.json
+               1 File(s)            666 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\pt_BR
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               667 messages.json
+               1 File(s)            667 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\pt_PT
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               661 messages.json
+               1 File(s)            661 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\ro
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               668 messages.json
+               1 File(s)            668 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\ru
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               783 messages.json
+               1 File(s)            783 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\sk
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               671 messages.json
+               1 File(s)            671 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\sl
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               642 messages.json
+               1 File(s)            642 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\sr
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               812 messages.json
+               1 File(s)            812 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\sv
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               649 messages.json
+               1 File(s)            649 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\th
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM             1,099 messages.json
+               1 File(s)          1,099 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\tr
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               650 messages.json
+               1 File(s)            650 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\uk
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               789 messages.json
+               1 File(s)            789 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\vi
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               720 messages.json
+               1 File(s)            720 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\zh_CN
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               595 messages.json
+               1 File(s)            595 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_locales\zh_TW
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM               640 messages.json
+               1 File(s)            640 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\nmmhkkegccagdldgiimedpiccmgmieda\1.0.0.4_0\_metadata
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+03/19/2018  12:36 PM             7,780 verified_contents.json
+               1 File(s)          7,780 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          8.2_0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             6,159 128.png
+04/11/2019  11:40 PM               776 manifest.json
+04/11/2019  11:40 PM    <DIR>          _locales
+04/11/2019  11:40 PM    <DIR>          _metadata
+               2 File(s)          6,935 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          ar
+04/11/2019  11:40 PM    <DIR>          bg
+04/11/2019  11:40 PM    <DIR>          ca
+04/11/2019  11:40 PM    <DIR>          cs
+04/11/2019  11:40 PM    <DIR>          da
+04/11/2019  11:40 PM    <DIR>          de
+04/11/2019  11:40 PM    <DIR>          el
+04/11/2019  11:40 PM    <DIR>          en
+04/11/2019  11:40 PM    <DIR>          es
+04/11/2019  11:40 PM    <DIR>          fi
+04/11/2019  11:40 PM    <DIR>          fil
+04/11/2019  11:40 PM    <DIR>          fr
+04/11/2019  11:40 PM    <DIR>          hi
+04/11/2019  11:40 PM    <DIR>          hr
+04/11/2019  11:40 PM    <DIR>          hu
+04/11/2019  11:40 PM    <DIR>          id
+04/11/2019  11:40 PM    <DIR>          it
+04/11/2019  11:40 PM    <DIR>          ja
+04/11/2019  11:40 PM    <DIR>          ko
+04/11/2019  11:40 PM    <DIR>          lt
+04/11/2019  11:40 PM    <DIR>          lv
+04/11/2019  11:40 PM    <DIR>          nl
+04/11/2019  11:40 PM    <DIR>          no
+04/11/2019  11:40 PM    <DIR>          pl
+04/11/2019  11:40 PM    <DIR>          pt_BR
+04/11/2019  11:40 PM    <DIR>          pt_PT
+04/11/2019  11:40 PM    <DIR>          ro
+04/11/2019  11:40 PM    <DIR>          ru
+04/11/2019  11:40 PM    <DIR>          se
+04/11/2019  11:40 PM    <DIR>          sk
+04/11/2019  11:40 PM    <DIR>          sl
+04/11/2019  11:40 PM    <DIR>          sr
+04/11/2019  11:40 PM    <DIR>          th
+04/11/2019  11:40 PM    <DIR>          tr
+04/11/2019  11:40 PM    <DIR>          uk
+04/11/2019  11:40 PM    <DIR>          vi
+04/11/2019  11:40 PM    <DIR>          zh_CN
+04/11/2019  11:40 PM    <DIR>          zh_TW
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ar
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               312 messages.json
+               1 File(s)            312 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\bg
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               292 messages.json
+               1 File(s)            292 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ca
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               254 messages.json
+               1 File(s)            254 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\cs
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               249 messages.json
+               1 File(s)            249 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\da
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               236 messages.json
+               1 File(s)            236 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\de
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               239 messages.json
+               1 File(s)            239 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\el
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               332 messages.json
+               1 File(s)            332 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\en
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               215 messages.json
+               1 File(s)            215 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\es
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               269 messages.json
+               1 File(s)            269 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\fi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               256 messages.json
+               1 File(s)            256 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\fil
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               234 messages.json
+               1 File(s)            234 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\fr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               268 messages.json
+               1 File(s)            268 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\hi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               289 messages.json
+               1 File(s)            289 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\hr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               230 messages.json
+               1 File(s)            230 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\hu
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               226 messages.json
+               1 File(s)            226 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\id
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               242 messages.json
+               1 File(s)            242 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\it
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               256 messages.json
+               1 File(s)            256 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ja
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               271 messages.json
+               1 File(s)            271 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ko
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               256 messages.json
+               1 File(s)            256 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\lt
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               253 messages.json
+               1 File(s)            253 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\lv
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               238 messages.json
+               1 File(s)            238 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\nl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               232 messages.json
+               1 File(s)            232 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\no
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/04/2019  08:23 AM               210 messages.json
+               1 File(s)            210 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\pl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               264 messages.json
+               1 File(s)            264 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\pt_BR
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               222 messages.json
+               1 File(s)            222 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\pt_PT
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               223 messages.json
+               1 File(s)            223 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ro
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               265 messages.json
+               1 File(s)            265 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\ru
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               286 messages.json
+               1 File(s)            286 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\se
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/04/2019  08:23 AM               210 messages.json
+               1 File(s)            210 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\sk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               222 messages.json
+               1 File(s)            222 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\sl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               234 messages.json
+               1 File(s)            234 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\sr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               295 messages.json
+               1 File(s)            295 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\th
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               324 messages.json
+               1 File(s)            324 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\tr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               234 messages.json
+               1 File(s)            234 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\uk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               304 messages.json
+               1 File(s)            304 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\vi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               232 messages.json
+               1 File(s)            232 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\zh_CN
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               258 messages.json
+               1 File(s)            258 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_locales\zh_TW
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM               249 messages.json
+               1 File(s)            249 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pjkljhegncpnkpknbcohdijeoejaedia\8.2_0\_metadata
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/25/2019  11:43 AM             6,066 verified_contents.json
+               1 File(s)          6,066 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          7319.128.0.1_0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/11/2019  10:13 AM           602,032 angular.js
+03/11/2019  10:13 AM             1,807 background_script.js
+03/11/2019  10:13 AM           162,111 cast_game_sender.js
+03/11/2019  10:13 AM            43,746 cast_sender.js
+04/11/2019  11:40 PM    <DIR>          cast_setup
+03/11/2019  10:13 AM            36,158 common.js
+03/11/2019  10:13 AM             3,116 feedback.css
+03/11/2019  10:13 AM            14,621 feedback.html
+03/11/2019  10:13 AM            23,207 feedback_script.js
+04/11/2019  11:40 PM             2,402 manifest.json
+03/11/2019  10:13 AM           322,491 material_css_min.css
+03/11/2019  10:13 AM            36,533 mirroring_cast_streaming.js
+03/11/2019  10:13 AM           240,695 mirroring_common.js
+03/11/2019  10:13 AM           602,545 mirroring_hangouts.js
+03/11/2019  10:13 AM             2,228 mirroring_webrtc.js
+04/11/2019  11:40 PM    <DIR>          _locales
+04/11/2019  11:40 PM    <DIR>          _metadata
+              14 File(s)      2,093,692 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\cast_setup
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/11/2019  10:13 AM           139,531 cast_app.js
+03/11/2019  10:13 AM             6,685 cast_app_min.css
+03/11/2019  10:13 AM               242 cast_app_redirect.js
+03/11/2019  10:13 AM             7,151 chromecast_logo_grey.png
+03/11/2019  10:13 AM                59 devices.html
+03/11/2019  10:13 AM             2,092 index.html
+03/11/2019  10:13 AM                59 offers.html
+03/11/2019  10:13 AM                59 setup.html
+               8 File(s)        155,878 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          am
+04/11/2019  11:40 PM    <DIR>          ar
+04/11/2019  11:40 PM    <DIR>          bg
+04/11/2019  11:40 PM    <DIR>          bn
+04/11/2019  11:40 PM    <DIR>          ca
+04/11/2019  11:40 PM    <DIR>          cs
+04/11/2019  11:40 PM    <DIR>          da
+04/11/2019  11:40 PM    <DIR>          de
+04/11/2019  11:40 PM    <DIR>          el
+04/11/2019  11:40 PM    <DIR>          en
+04/11/2019  11:40 PM    <DIR>          es
+04/11/2019  11:40 PM    <DIR>          et
+04/11/2019  11:40 PM    <DIR>          fa
+04/11/2019  11:40 PM    <DIR>          fi
+04/11/2019  11:40 PM    <DIR>          fil
+04/11/2019  11:40 PM    <DIR>          fr
+04/11/2019  11:40 PM    <DIR>          gu
+04/11/2019  11:40 PM    <DIR>          hi
+04/11/2019  11:40 PM    <DIR>          hr
+04/11/2019  11:40 PM    <DIR>          hu
+04/11/2019  11:40 PM    <DIR>          id
+04/11/2019  11:40 PM    <DIR>          it
+04/11/2019  11:40 PM    <DIR>          iw
+04/11/2019  11:40 PM    <DIR>          ja
+04/11/2019  11:40 PM    <DIR>          kn
+04/11/2019  11:40 PM    <DIR>          ko
+04/11/2019  11:40 PM    <DIR>          lt
+04/11/2019  11:40 PM    <DIR>          lv
+04/11/2019  11:40 PM    <DIR>          ml
+04/11/2019  11:40 PM    <DIR>          mr
+04/11/2019  11:40 PM    <DIR>          ms
+04/11/2019  11:40 PM    <DIR>          nb
+04/11/2019  11:40 PM    <DIR>          nl
+04/11/2019  11:40 PM    <DIR>          pl
+04/11/2019  11:40 PM    <DIR>          pt
+04/11/2019  11:40 PM    <DIR>          ro
+04/11/2019  11:40 PM    <DIR>          ru
+04/11/2019  11:40 PM    <DIR>          sk
+04/11/2019  11:40 PM    <DIR>          sl
+04/11/2019  11:40 PM    <DIR>          sr
+04/11/2019  11:40 PM    <DIR>          sv
+04/11/2019  11:40 PM    <DIR>          sw
+04/11/2019  11:40 PM    <DIR>          ta
+04/11/2019  11:40 PM    <DIR>          te
+04/11/2019  11:40 PM    <DIR>          th
+04/11/2019  11:40 PM    <DIR>          tr
+04/11/2019  11:40 PM    <DIR>          uk
+04/11/2019  11:40 PM    <DIR>          vi
+04/11/2019  11:40 PM    <DIR>          zh
+04/11/2019  11:40 PM    <DIR>          zh_TW
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\am
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            17,873 messages.json
+               1 File(s)         17,873 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ar
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            17,322 messages.json
+               1 File(s)         17,322 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\bg
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            18,687 messages.json
+               1 File(s)         18,687 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\bn
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            20,453 messages.json
+               1 File(s)         20,453 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ca
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,968 messages.json
+               1 File(s)         15,968 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\cs
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,956 messages.json
+               1 File(s)         15,956 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\da
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,777 messages.json
+               1 File(s)         15,777 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\de
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,038 messages.json
+               1 File(s)         16,038 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\el
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            18,561 messages.json
+               1 File(s)         18,561 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\en
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,326 messages.json
+               1 File(s)         15,326 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\es
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,998 messages.json
+               1 File(s)         15,998 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\et
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,550 messages.json
+               1 File(s)         15,550 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\fa
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            17,611 messages.json
+               1 File(s)         17,611 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\fi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,707 messages.json
+               1 File(s)         15,707 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\fil
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,050 messages.json
+               1 File(s)         16,050 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\fr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,299 messages.json
+               1 File(s)         16,299 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\gu
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            19,996 messages.json
+               1 File(s)         19,996 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\hi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            20,095 messages.json
+               1 File(s)         20,095 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\hr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,924 messages.json
+               1 File(s)         15,924 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\hu
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,126 messages.json
+               1 File(s)         16,126 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\id
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,508 messages.json
+               1 File(s)         15,508 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\it
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,672 messages.json
+               1 File(s)         15,672 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\iw
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+03/11/2019  10:13 AM            19,848 messages.json
+               1 File(s)         19,848 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ja
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,995 messages.json
+               1 File(s)         16,995 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\kn
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            21,189 messages.json
+               1 File(s)         21,189 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ko
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,949 messages.json
+               1 File(s)         15,949 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\lt
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,251 messages.json
+               1 File(s)         16,251 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\lv
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,355 messages.json
+               1 File(s)         16,355 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ml
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            21,801 messages.json
+               1 File(s)         21,801 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\mr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            20,488 messages.json
+               1 File(s)         20,488 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ms
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,795 messages.json
+               1 File(s)         15,795 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\nb
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,610 messages.json
+               1 File(s)         15,610 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\nl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,755 messages.json
+               1 File(s)         15,755 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\pl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,880 messages.json
+               1 File(s)         15,880 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\pt
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,929 messages.json
+               1 File(s)         15,929 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ro
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,120 messages.json
+               1 File(s)         16,120 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ru
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            18,096 messages.json
+               1 File(s)         18,096 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\sk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,184 messages.json
+               1 File(s)         16,184 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\sl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,049 messages.json
+               1 File(s)         16,049 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\sr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            18,312 messages.json
+               1 File(s)         18,312 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\sv
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,553 messages.json
+               1 File(s)         15,553 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\sw
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,594 messages.json
+               1 File(s)         15,594 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\ta
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            21,198 messages.json
+               1 File(s)         21,198 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\te
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            21,277 messages.json
+               1 File(s)         21,277 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\th
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            19,539 messages.json
+               1 File(s)         19,539 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\tr
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,011 messages.json
+               1 File(s)         16,011 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\uk
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            18,058 messages.json
+               1 File(s)         18,058 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\vi
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            16,512 messages.json
+               1 File(s)         16,512 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\zh
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,209 messages.json
+               1 File(s)         15,209 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_locales\zh_TW
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            15,423 messages.json
+               1 File(s)         15,423 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Extensions\pkedcjkdefgpdelpbcmbmeomcjbeemfm\7319.128.0.1_0\_metadata
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM            28,019 computed_hashes.json
+03/11/2019  10:13 AM            10,008 verified_contents.json
+               2 File(s)         38,027 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\GPUCache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             8,192 data_0
+04/11/2019  11:44 PM           270,336 data_1
+04/11/2019  11:40 PM             8,192 data_2
+04/11/2019  11:40 PM             8,192 data_3
+04/11/2019  11:40 PM           262,512 index
+               5 File(s)        557,424 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Storage
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          leveldb
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:45 PM             6,713 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               179 LOG
+04/11/2019  11:40 PM                70 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)          7,019 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Session Storage
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:45 PM            18,442 000003.log
+04/11/2019  11:44 PM                16 CURRENT
+04/11/2019  11:44 PM                 0 LOCK
+04/11/2019  11:44 PM               146 LOG
+04/11/2019  11:44 PM                41 MANIFEST-000001
+               5 File(s)         18,645 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Site Characteristics Database
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:45 PM               236 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               361 LOG
+04/11/2019  11:40 PM               161 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)            815 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          ext
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          gfdkimpbcpahaombhbimeihdjnejgicl
+04/11/2019  11:44 PM    <DIR>          nmmhkkegccagdldgiimedpiccmgmieda
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          def
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Code Cache
+04/11/2019  11:40 PM    <DIR>          GPUCache
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM                24 index
+04/11/2019  11:40 PM    <DIR>          index-dir
+               1 File(s)             24 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index-dir
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM                48 the-real-index
+               1 File(s)             48 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             8,192 data_0
+04/11/2019  11:40 PM           270,336 data_1
+04/11/2019  11:40 PM             8,192 data_2
+04/11/2019  11:40 PM             8,192 data_3
+04/11/2019  11:40 PM           262,512 index
+               5 File(s)        557,424 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          def
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          Code Cache
+04/11/2019  11:44 PM    <DIR>          GPUCache
+04/11/2019  11:44 PM                59 Network Persistent State
+               1 File(s)             59 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          js
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\js
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM                24 index
+04/11/2019  11:44 PM    <DIR>          index-dir
+               1 File(s)             24 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\js\index-dir
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM                48 the-real-index
+               1 File(s)             48 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\GPUCache
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:44 PM             8,192 data_0
+04/11/2019  11:44 PM           270,336 data_1
+04/11/2019  11:44 PM             8,192 data_2
+04/11/2019  11:44 PM             8,192 data_3
+04/11/2019  11:44 PM           262,512 index
+               5 File(s)        557,424 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Sync Data
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          LevelDB
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM                46 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               337 LOG
+04/11/2019  11:40 PM               149 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)            589 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:44 PM    <DIR>          pkedcjkdefgpdelpbcmbmeomcjbeemfm
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Sync Extension Settings\pkedcjkdefgpdelpbcmbmeomcjbeemfm
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM                 0 000003.log
+04/11/2019  11:40 PM                16 CURRENT
+04/11/2019  11:40 PM                 0 LOCK
+04/11/2019  11:44 PM               415 LOG
+04/11/2019  11:40 PM               188 LOG.old
+04/11/2019  11:40 PM                41 MANIFEST-000001
+               6 File(s)            660 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\FileTypePolicies
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\InterventionPolicyDatabase
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\MEIPreload
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\OriginTrials
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\PepperFlash
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\pnacl
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\RecoveryImproved
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Safe Browsing
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          GPUCache
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:48 PM            45,056 data_0
+04/11/2019  11:48 PM           270,336 data_1
+04/11/2019  11:40 PM             8,192 data_2
+04/11/2019  11:48 PM         4,202,496 data_3
+04/11/2019  11:40 PM           262,512 index
+               5 File(s)      4,788,592 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\SSLErrorAssistant
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Subresource Filter
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Unindexed Rules
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Subresource Filter\Unindexed Rules
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\SwReporter
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\WidevineCdm
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Feeds
+04/11/2019  11:40 PM    <DIR>          Internet Explorer
+04/11/2019  11:36 PM    <DIR>          Media Player
+04/11/2019  11:45 PM    <DIR>          Windows
+04/11/2019  11:36 PM    <DIR>          Windows Mail
+04/11/2019  11:36 PM    <DIR>          Windows Media
+04/11/2019  11:36 PM    <DIR>          Windows Sidebar
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Feeds for United States~
+04/11/2019  11:39 PM             7,168 FeedsStore.feedsdb-ms
+04/11/2019  11:36 PM    <DIR>          Microsoft Feeds~
+               1 File(s)          7,168 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds\Feeds for United States~
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM            28,672 Popular Government Questions from USA~dgov~.feed-ms
+04/11/2019  11:36 PM            28,672 USA~dgov Updates~c News and Features~.feed-ms
+               2 File(s)         57,344 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds\Microsoft Feeds~
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM            28,672 Microsoft at Home~.feed-ms
+04/11/2019  11:36 PM            28,672 Microsoft at Work~.feed-ms
+04/11/2019  11:36 PM            28,672 MSNBC News~.feed-ms
+               3 File(s)         86,016 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~
+
+04/11/2019  11:39 PM            32,768 Suggested Sites~.feed-ms
+04/11/2019  11:36 PM            28,672 Web Slice Gallery~.feed-ms
+               2 File(s)         61,440 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds Cache\2368PKVJ
+
+04/11/2019  11:36 PM                 0 fwlink[1]
+04/11/2019  11:36 PM                 0 fwlink[2]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds Cache\F1H0HEEH
+
+04/11/2019  11:36 PM                 0 fwlink[1]
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds Cache\OGQKW1NW
+
+04/11/2019  11:36 PM                 0 fwlink[1]
+04/11/2019  11:39 PM                 0 ieonline.microsoft[1]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Feeds Cache\Z39057SA
+
+04/11/2019  11:36 PM                 0 fwlink[1]
+04/11/2019  11:36 PM                 0 fwlink[2]
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:36 PM            12,189 brndlog.txt
+04/11/2019  11:40 PM             9,176 frameiconcache.dat
+04/11/2019  11:39 PM            16,384 MSIMGSIZ.DAT
+04/11/2019  11:39 PM    <DIR>          Recovery
+               3 File(s)         37,749 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\DOMStore\FDC18P7W
+
+04/11/2019  11:39 PM                13 www.msn[1].xml
+               1 File(s)             13 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\DOMStore\MVN9AWYW
+
+04/11/2019  11:40 PM                13 www.google.co[1].xml
+               1 File(s)             13 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Recovery
+
+04/11/2019  11:39 PM    <DIR>          .
+04/11/2019  11:39 PM    <DIR>          ..
+04/11/2019  11:39 PM    <DIR>          High
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Recovery\High
+
+04/11/2019  11:39 PM    <DIR>          .
+04/11/2019  11:39 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Active
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             4,096 RecoveryStore.{ADCE8494-5CAA-11E9-AA54-000C29A069D7}.dat
+04/11/2019  11:39 PM             5,632 {ADCE8495-5CAA-11E9-AA54-000C29A069D7}.dat
+04/11/2019  11:40 PM            14,848 {ADCE8497-5CAA-11E9-AA54-000C29A069D7}.dat
+04/11/2019  11:40 PM             5,120 {C0653425-5CAA-11E9-AA54-000C29A069D7}.dat
+               4 File(s)         29,696 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Media Player
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM         1,069,056 CurrentDatabase_372.wmdb
+04/11/2019  11:36 PM            68,000 LocalMLS_3.wmdb
+04/11/2019  11:36 PM    <DIR>          Sync Playlists
+               2 File(s)      1,137,056 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Media Player\Sync Playlists
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          en-US
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Media Player\Sync Playlists\en-US
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          0002C6A1
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Media Player\Sync Playlists\en-US\0002C6A1
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM             1,044 01_Music_auto_rated_at_5_stars.wpl
+04/11/2019  11:36 PM             1,279 02_Music_added_in_the_last_month.wpl
+04/11/2019  11:36 PM             1,267 03_Music_rated_at_4_or_5_stars.wpl
+04/11/2019  11:36 PM             1,284 04_Music_played_in_the_last_month.wpl
+04/11/2019  11:36 PM               797 05_Pictures_taken_in_the_last_month.wpl
+04/11/2019  11:36 PM               785 06_Pictures_rated_4_or_5_stars.wpl
+04/11/2019  11:36 PM             1,040 07_TV_recorded_in_the_last_week.wpl
+04/11/2019  11:36 PM             1,020 08_Video_rated_at_4_or_5_stars.wpl
+04/11/2019  11:36 PM             1,025 09_Music_played_the_most.wpl
+04/11/2019  11:36 PM             1,063 10_All_Music.wpl
+04/11/2019  11:36 PM               585 11_All_Pictures.wpl
+04/11/2019  11:36 PM             1,079 12_All_Video.wpl
+              12 File(s)         12,268 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:43 PM    <DIR>          1033
+04/11/2019  11:36 PM    <DIR>          Burn
+04/11/2019  11:36 PM    <DIR>          Caches
+04/11/2019  11:36 PM    <DIR>          Explorer
+07/14/2009  03:04 AM    <DIR>          GameExplorer
+04/11/2019  11:36 PM    <DIR>          Ringtones
+04/11/2019  11:45 PM    <DIR>          WER
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\1033
+
+04/11/2019  11:43 PM    <DIR>          .
+04/11/2019  11:43 PM    <DIR>          ..
+04/11/2019  11:43 PM           297,531 StructuredQuerySchema.bin
+               1 File(s)        297,531 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Burn
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Caches
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Explorer
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM            24,576 ExplorerStartupLog.etl
+04/11/2019  11:36 PM                24 thumbcache_1024.db
+04/11/2019  11:36 PM         1,048,576 thumbcache_256.db
+04/11/2019  11:36 PM                24 thumbcache_32.db
+04/11/2019  11:36 PM                24 thumbcache_96.db
+04/11/2019  11:36 PM             3,256 thumbcache_idx.db
+04/11/2019  11:36 PM                24 thumbcache_sr.db
+               7 File(s)      1,076,504 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\GameExplorer
+
+07/14/2009  03:04 AM    <DIR>          .
+07/14/2009  03:04 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\History
+
+04/11/2019  11:36 PM    <DIR>          Low
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\History\Low
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Ringtones
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files
+
+04/11/2019  11:36 PM    <DIR>          Low
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\69LGRFWE
+
+04/11/2019  11:39 PM             4,027 33036ea1[1].js
+04/11/2019  11:39 PM               840 37f3511b[1].js
+04/11/2019  11:39 PM            12,619 9a358300[1].js
+04/11/2019  11:39 PM               803 AA2pNu2[1].png
+04/11/2019  11:39 PM               652 AA2r9xR[1].png
+04/11/2019  11:39 PM               618 AA6xJ2X[1].png
+04/11/2019  11:39 PM               712 AA8vAKd[1].png
+04/11/2019  11:39 PM               651 AAfojr6[1].png
+04/11/2019  11:39 PM               722 AAgKag7[1].png
+04/11/2019  11:39 PM               630 AAywufo[1].png
+04/11/2019  11:40 PM             5,033 autotrack[1].js
+04/11/2019  11:40 PM               702 BB2bztB[1].png
+04/11/2019  11:40 PM               913 BBCd7Qd[1].png
+04/11/2019  11:39 PM               895 BBERPsH[1].png
+04/11/2019  11:39 PM            84,774 BBIrSd4[1].png
+04/11/2019  11:39 PM               352 BBmJLn3[1].png
+04/11/2019  11:39 PM             2,122 BBNbMwJ[1].jpg
+04/11/2019  11:39 PM             1,868 BBOP9cU[1].jpg
+04/11/2019  11:39 PM               483 BBOPUKu[1].png
+04/11/2019  11:39 PM               147 BBSjKuQ[1].png
+04/11/2019  11:39 PM             7,202 BBSJm60[1].jpg
+04/11/2019  11:39 PM             6,810 BBT3Ory[1].jpg
+04/11/2019  11:39 PM               433 BBTM71w[1].png
+04/11/2019  11:39 PM             6,751 BBVL5Ei[1].jpg
+04/11/2019  11:39 PM             1,148 BBVMoyL[1].jpg
+04/11/2019  11:39 PM             2,513 BBVNMvi[1].jpg
+04/11/2019  11:39 PM             1,383 BBVNoTm[1].jpg
+04/11/2019  11:39 PM             2,387 BBVNQAf[1].jpg
+04/11/2019  11:39 PM             1,874 BBVNvdQ[1].jpg
+04/11/2019  11:39 PM            11,523 BBVOkiF[1].jpg
+04/11/2019  11:39 PM             5,873 BBVOL5n[1].jpg
+04/11/2019  11:39 PM            20,286 BBVOMR7[1].png
+04/11/2019  11:39 PM            38,155 BBVOSpF[1].jpg
+04/11/2019  11:39 PM             8,180 BBVPg3J[1].jpg
+04/11/2019  11:39 PM             7,944 BBVPggQ[1].jpg
+04/11/2019  11:39 PM             7,860 BBVPiWB[1].jpg
+04/11/2019  11:39 PM             8,325 BBVPQHw[1].jpg
+04/11/2019  11:39 PM             2,718 BBVPw9r[1].jpg
+04/11/2019  11:39 PM             2,225 BBVPXc6[1].jpg
+04/11/2019  11:39 PM             1,701 BBVPyuK[1].jpg
+04/11/2019  11:40 PM             8,416 BBVQ0Ec[1].jpg
+04/11/2019  11:39 PM             7,257 BBVQ1cG[1].jpg
+04/11/2019  11:39 PM             2,373 BBVQ9SC[1].jpg
+04/11/2019  11:40 PM            10,011 BBVQBdZ[1].jpg
+04/11/2019  11:40 PM             7,140 BBVQDKq[1].jpg
+04/11/2019  11:40 PM             9,828 BBVQfaR[1].jpg
+04/11/2019  11:39 PM             8,414 BBVQJnm[1].jpg
+04/11/2019  11:39 PM             7,372 BBVQk05[1].jpg
+04/11/2019  11:39 PM             5,489 BBVQngr[1].jpg
+04/11/2019  11:39 PM            26,130 BBVQOvA[1].jpg
+04/11/2019  11:40 PM             9,961 BBVQSNJ[1].jpg
+04/11/2019  11:39 PM            42,637 BBVvRS7[1].png
+04/11/2019  11:39 PM               788 BBvWOqM[1].png
+04/11/2019  11:39 PM               717 BBzrI3N[1].png
+04/11/2019  11:40 PM             1,987 benefits-icon-world[1].jpg
+04/11/2019  11:39 PM             9,956 c6f6e566[1].js
+04/11/2019  11:39 PM            45,516 cd9366[1].eot
+04/11/2019  11:40 PM            21,697 chrome_global_desktop[1].png
+04/11/2019  11:39 PM           149,156 css[1].txt
+04/11/2019  11:40 PM             1,014 download-bg-mobile[1].svg
+04/11/2019  11:39 PM                43 e151e5[1].gif
+04/11/2019  11:39 PM            17,174 favicon[1].ico
+04/11/2019  11:40 PM               237 favicon[1].png
+04/11/2019  11:40 PM             1,150 favicon[2].ico
+04/11/2019  11:40 PM             1,087 font[1].css
+04/11/2019  11:40 PM            23,500 f[1].txt
+04/11/2019  11:40 PM             6,463 google-logo[1].jpg
+04/11/2019  11:40 PM             2,635 google-play-download[1].png
+04/11/2019  11:40 PM             3,287 icon-help[1].jpg
+04/11/2019  11:39 PM           506,982 jslibraries[1]
+04/11/2019  11:40 PM                 0 l[1]
+04/11/2019  11:40 PM           113,492 main.v2.min[1].css
+04/11/2019  11:39 PM             1,417 mscc-0.4.1.min[1].css
+04/11/2019  11:39 PM             1,531 override[1].css
+04/11/2019  11:39 PM           195,919 search[1].htm
+04/11/2019  11:40 PM            43,248 th[1].jpg
+04/11/2019  11:39 PM                43 trans[1].gif
+04/11/2019  11:40 PM                43 trans[2].gif
+              78 File(s)      1,558,964 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\IV511HM9
+
+04/11/2019  11:39 PM             3,212 3957e8df[1].js
+04/11/2019  11:39 PM             1,566 40e1b425[1].js
+04/11/2019  11:39 PM           149,391 51-6d3a1e[1].txt
+04/11/2019  11:39 PM               544 6798a322[1].js
+04/11/2019  11:39 PM           238,673 9e-639daf-68ddb2ab[1]
+04/11/2019  11:39 PM               962 AAA8PBm[1].png
+04/11/2019  11:39 PM               492 AAaeOki[1].png
+04/11/2019  11:39 PM               745 AAeVG0S[1].png
+04/11/2019  11:39 PM               807 AAjaLzH[1].png
+04/11/2019  11:39 PM               300 AAmRWGB[1].png
+04/11/2019  11:39 PM               652 AAufTSd[1].png
+04/11/2019  11:39 PM               643 AAv6yV5[1].png
+04/11/2019  11:39 PM               697 AAvcS6D[1].png
+04/11/2019  11:39 PM               591 AAyxfDD[1].png
+04/11/2019  11:39 PM             2,855 angular-locale_en-us[1].js
+04/11/2019  11:39 PM               895 BBERG9W[1].png
+04/11/2019  11:39 PM               274 BBJ3XCJ[1].png
+04/11/2019  11:39 PM               349 BBlOfd2[1].png
+04/11/2019  11:39 PM               625 BBlOizo[1].png
+04/11/2019  11:39 PM               445 BBp3Aju[1].png
+04/11/2019  11:39 PM            10,302 BBUN8sm[1].jpg
+04/11/2019  11:39 PM             1,685 BBV2ngV[1].jpg
+04/11/2019  11:39 PM            13,045 BBV9OyC[1].jpg
+04/11/2019  11:39 PM               851 BBvccHl[1].png
+04/11/2019  11:39 PM            10,536 BBVNLfw[1].jpg
+04/11/2019  11:39 PM             2,551 BBVNmwy[1].jpg
+04/11/2019  11:39 PM             1,811 BBVOhnr[1].jpg
+04/11/2019  11:39 PM           130,516 BBVOQL1[1].png
+04/11/2019  11:39 PM             1,644 BBVOSNM[1].jpg
+04/11/2019  11:39 PM           125,949 BBVOwPy[1].png
+04/11/2019  11:39 PM            10,464 BBVP2Lv[1].jpg
+04/11/2019  11:39 PM            11,323 BBVP3sO[1].jpg
+04/11/2019  11:40 PM             6,369 BBVPB20[1].jpg
+04/11/2019  11:39 PM             2,317 BBVPbZY[1].jpg
+04/11/2019  11:39 PM             1,831 BBVPCnq[1].jpg
+04/11/2019  11:39 PM             1,956 BBVPD2g[1].jpg
+04/11/2019  11:40 PM            12,603 BBVPDWh[1].jpg
+04/11/2019  11:39 PM             9,156 BBVPIo9[1].jpg
+04/11/2019  11:40 PM             6,754 BBVPiX7[1].jpg
+04/11/2019  11:39 PM             1,665 BBVPQQ2[1].jpg
+04/11/2019  11:40 PM             5,695 BBVPqUA[1].jpg
+04/11/2019  11:39 PM            11,237 BBVPRMG[1].jpg
+04/11/2019  11:39 PM             2,068 BBVPTIZ[1].jpg
+04/11/2019  11:40 PM            18,110 BBVPvL6[1].jpg
+04/11/2019  11:39 PM            11,780 BBVPvpV[1].jpg
+04/11/2019  11:39 PM             2,751 BBVPWUP[1].jpg
+04/11/2019  11:40 PM            25,659 BBVPxS2[1].jpg
+04/11/2019  11:39 PM             1,878 BBVPYT6[1].jpg
+04/11/2019  11:39 PM             4,984 BBVQ82x[1].jpg
+04/11/2019  11:39 PM             6,926 BBVQBxy[1].jpg
+04/11/2019  11:39 PM             8,358 BBVQDxl[1].jpg
+04/11/2019  11:40 PM            10,271 BBVQMEJ[1].jpg
+04/11/2019  11:39 PM             7,147 BBVQrCZ[1].jpg
+04/11/2019  11:40 PM            11,483 BBVQsJk[1].jpg
+04/11/2019  11:39 PM             8,512 BBVR2Ym[1].jpg
+04/11/2019  11:40 PM             1,817 benefits-icon-shield[1].jpg
+04/11/2019  11:40 PM             4,286 cursor-replay[1].bmp
+04/11/2019  11:40 PM             9,890 devices[1].png
+04/11/2019  11:39 PM            54,035 e1773fb1[1].js
+04/11/2019  11:40 PM            13,210 fallback.v2.min[1].css
+04/11/2019  11:40 PM            14,400 fallback.v2.min[1].js
+04/11/2019  11:39 PM               237 favicon[1].png
+04/11/2019  11:39 PM               237 favicon[2].png
+04/11/2019  11:39 PM               237 favicon[3].png
+04/11/2019  11:40 PM            46,274 ga[1].js
+04/11/2019  11:40 PM             9,532 hero-back-mobile[1].jpg
+04/11/2019  11:40 PM             3,248 icon-twitter[1].jpg
+04/11/2019  11:40 PM             3,130 icon-youtube[1].jpg
+04/11/2019  11:39 PM                 0 l[1]
+04/11/2019  11:40 PM                 0 l[2]
+04/11/2019  11:39 PM            17,516 mwfmdl2-v2.94[1].eot
+04/11/2019  11:39 PM               320 Passport[1].htm
+04/11/2019  11:40 PM             9,259 thank-you-animation[1].png
+04/11/2019  11:40 PM             6,245 th[1].jpg
+04/11/2019  11:40 PM                43 trans[1].gif
+04/11/2019  11:40 PM                43 trans[2].gif
+04/11/2019  11:39 PM            14,806 wc-utils[1].txt
+              77 File(s)      1,113,670 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\LIMTO3MN
+
+04/11/2019  11:39 PM           128,007 18-d72213[1]
+04/11/2019  11:40 PM             6,924 7079ab3b[1].js
+04/11/2019  11:39 PM               110 71b450b0[1].js
+04/11/2019  11:39 PM               469 a9b12688[1].js
+04/11/2019  11:39 PM               346 AA36Tom[1].png
+04/11/2019  11:39 PM               696 AA42rng[1].png
+04/11/2019  11:39 PM               410 AA5i93k[1].png
+04/11/2019  11:39 PM               320 AA8ItXO[1].png
+04/11/2019  11:39 PM               912 AAeRA1y[1].png
+04/11/2019  11:39 PM               475 AAexRGq[1].png
+04/11/2019  11:40 PM               652 AAuQ8zY[1].png
+04/11/2019  11:39 PM               650 AAyx2WP[1].png
+04/11/2019  11:39 PM               602 AAyxkRJ[1].png
+04/11/2019  11:40 PM             3,718 app-store-download[1].jpg
+04/11/2019  11:39 PM               511 BBm2Dvk[1].png
+04/11/2019  11:39 PM               607 BBnGKDa[1].png
+04/11/2019  11:39 PM               140 BBNro5W[1].png
+04/11/2019  11:40 PM               698 BBNsWtr[1].png
+04/11/2019  11:39 PM               354 BBp3iwY[1].png
+04/11/2019  11:39 PM            10,083 BBTDtct[1].jpg
+04/11/2019  11:39 PM             7,624 BBUVNNW[1].jpg
+04/11/2019  11:39 PM            23,353 BBVbkWT[1].png
+04/11/2019  11:39 PM             2,606 BBVgvBT[1].jpg
+04/11/2019  11:39 PM            11,570 BBVLnCh[1].jpg
+04/11/2019  11:39 PM            11,540 BBVNmIh[1].jpg
+04/11/2019  11:39 PM             4,318 BBVNPo0[1].jpg
+04/11/2019  11:39 PM             2,562 BBVNtYD[1].jpg
+04/11/2019  11:39 PM             3,005 BBVO9sT[1].jpg
+04/11/2019  11:39 PM             5,106 BBVOaEN[1].jpg
+04/11/2019  11:39 PM             2,121 BBVOHc9[1].jpg
+04/11/2019  11:39 PM            16,893 BBVOier[1].jpg
+04/11/2019  11:39 PM            97,732 BBVOMPh[1].png
+04/11/2019  11:39 PM             2,011 BBVOOPI[1].jpg
+04/11/2019  11:39 PM             2,143 BBVPBdv[1].jpg
+04/11/2019  11:39 PM             2,475 BBVPCxn[1].jpg
+04/11/2019  11:39 PM             2,181 BBVPJQt[1].jpg
+04/11/2019  11:39 PM             2,127 BBVPNIx[1].jpg
+04/11/2019  11:39 PM             1,592 BBVPP3A[1].jpg
+04/11/2019  11:39 PM             1,914 BBVPPh9[1].jpg
+04/11/2019  11:39 PM            39,645 BBVPpQD[1].jpg
+04/11/2019  11:39 PM             7,437 BBVPPXG[1].jpg
+04/11/2019  11:40 PM            20,286 BBVPrQO[1].jpg
+04/11/2019  11:39 PM             2,658 BBVPXQf[1].jpg
+04/11/2019  11:39 PM             2,812 BBVPY5d[1].jpg
+04/11/2019  11:40 PM             8,054 BBVQ3ek[1].jpg
+04/11/2019  11:40 PM             6,570 BBVQ9ox[1].jpg
+04/11/2019  11:39 PM             2,359 BBVQcMm[1].jpg
+04/11/2019  11:40 PM             7,151 BBVQD3b[1].jpg
+04/11/2019  11:40 PM             9,758 BBVQdod[1].jpg
+04/11/2019  11:39 PM             6,772 BBVQeNE[1].jpg
+04/11/2019  11:39 PM            12,225 BBVQhJ3[1].jpg
+04/11/2019  11:39 PM             9,854 BBVQkP9[1].jpg
+04/11/2019  11:39 PM             1,642 BBVQm70[1].jpg
+04/11/2019  11:40 PM            10,460 BBVQOa3[1].jpg
+04/11/2019  11:39 PM             1,530 BBVQuTf[1].jpg
+04/11/2019  11:39 PM           104,589 BBVvZxm[1].png
+04/11/2019  11:39 PM               587 BByCIyx[1].png
+04/11/2019  11:40 PM             1,656 benefits-icon-fast[1].jpg
+04/11/2019  11:39 PM             2,769 c08f0499[1].js
+04/11/2019  11:39 PM           186,150 c1-7c7ac0-8a01ca32[1].txt
+04/11/2019  11:40 PM             1,871 chrome-logo[1].png
+04/11/2019  11:40 PM           143,591 chrome[1].htm
+04/11/2019  11:40 PM            28,862 connected_global_desktop[1].png
+04/11/2019  11:39 PM             3,007 db475c97[1].js
+04/11/2019  11:39 PM           289,643 en-gb[1].htm
+04/11/2019  11:40 PM             1,959 font[1].css
+04/11/2019  11:40 PM             4,247 google-play-download[1].jpg
+04/11/2019  11:40 PM            61,887 gtm[1].js
+04/11/2019  11:40 PM             3,273 icon-fb[1].jpg
+04/11/2019  11:39 PM                 0 l[1]
+04/11/2019  11:39 PM                 0 l[2]
+04/11/2019  11:39 PM             3,560 mscc-0.4.1.min[1].js
+04/11/2019  11:39 PM           355,196 mwf-main.var.min[1].js
+04/11/2019  11:39 PM             4,054 RE1Mu3b[1].png
+04/11/2019  11:40 PM            17,471 save_password_global_desktop[1].png
+04/11/2019  11:40 PM             2,669 th[1].jpg
+04/11/2019  11:40 PM            19,018 translate_global_desktop[1].png
+04/11/2019  11:39 PM                43 trans[1].gif
+04/11/2019  11:40 PM                43 trans[2].gif
+              79 File(s)      1,744,915 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\P1VUJAI5
+
+04/11/2019  11:39 PM               419 AA3bLwz[1].png
+04/11/2019  11:39 PM               238 AA86h7b[1].png
+04/11/2019  11:39 PM               695 AA9z9sE[1].png
+04/11/2019  11:40 PM               413 AAftezG[1].png
+04/11/2019  11:40 PM               343 AAmin0Z[1].png
+04/11/2019  11:39 PM               502 AAxspu1[1].png
+04/11/2019  11:39 PM               399 AAz8ell[1].png
+04/11/2019  11:40 PM             1,836 app-store-download[1].png
+04/11/2019  11:39 PM           380,931 application[1]
+04/11/2019  11:39 PM               672 BB5K02x[1].png
+04/11/2019  11:39 PM               824 BB8qweS[1].png
+04/11/2019  11:39 PM               513 BBiwNf[1].png
+04/11/2019  11:39 PM               400 BBK845x[1].png
+04/11/2019  11:39 PM               140 BBNrsxw[1].png
+04/11/2019  11:39 PM               620 BBNvr53[1].png
+04/11/2019  11:39 PM               249 BBQ6kL4[1].png
+04/11/2019  11:39 PM             2,230 BBVJV87[1].jpg
+04/11/2019  11:39 PM            10,895 BBVNDem[1].jpg
+04/11/2019  11:39 PM             2,471 BBVNwHM[1].jpg
+04/11/2019  11:39 PM             2,111 BBVO6sE[1].jpg
+04/11/2019  11:40 PM            22,118 BBVOKrK[1].jpg
+04/11/2019  11:39 PM             5,477 BBVOktT[1].jpg
+04/11/2019  11:39 PM             1,379 BBVP1VM[1].jpg
+04/11/2019  11:39 PM             1,958 BBVPAj2[1].jpg
+04/11/2019  11:39 PM             2,544 BBVPAWh[1].jpg
+04/11/2019  11:39 PM             1,710 BBVPF4E[1].jpg
+04/11/2019  11:39 PM             2,204 BBVPnes[1].jpg
+04/11/2019  11:39 PM             2,155 BBVPO00[1].jpg
+04/11/2019  11:39 PM            11,008 BBVPpQD[1].jpg
+04/11/2019  11:39 PM             2,470 BBVPr2w[1].jpg
+04/11/2019  11:39 PM             1,643 BBVPSM3[1].jpg
+04/11/2019  11:39 PM             2,236 BBVPuch[1].jpg
+04/11/2019  11:39 PM            11,616 BBVPvFZ[1].jpg
+04/11/2019  11:39 PM             1,877 BBVPWvU[1].jpg
+04/11/2019  11:39 PM             6,395 BBVPXgX[1].jpg
+04/11/2019  11:39 PM             3,143 BBVQ9kd[1].jpg
+04/11/2019  11:39 PM             5,542 BBVQ9rw[1].jpg
+04/11/2019  11:39 PM             5,002 BBVQaMX[1].jpg
+04/11/2019  11:39 PM             5,866 BBVQgnG[1].jpg
+04/11/2019  11:39 PM             2,177 BBVQhPJ[1].jpg
+04/11/2019  11:40 PM             5,748 BBVQkxh[1].jpg
+04/11/2019  11:39 PM             1,914 BBVQNPz[1].jpg
+04/11/2019  11:40 PM            14,220 BBVQOjY[1].jpg
+04/11/2019  11:39 PM             9,982 BBVQOvA[1].jpg
+04/11/2019  11:40 PM             7,224 BBVQYaE[1].jpg
+04/11/2019  11:39 PM               880 BBvWr09[1].png
+04/11/2019  11:39 PM               659 BBvWtyN[1].png
+04/11/2019  11:39 PM               815 BBxWcHH[1].png
+04/11/2019  11:39 PM               865 BByydI8[1].png
+04/11/2019  11:40 PM             2,084 benefits-icon-search[1].jpg
+04/11/2019  11:40 PM             9,054 CAECIW1A.log
+04/11/2019  11:39 PM            18,751 cc8437ad[1].js
+04/11/2019  11:40 PM             5,828 chrome-logo[1].svg
+04/11/2019  11:40 PM             4,469 chrome_throbber_fast[1].gif
+04/11/2019  11:39 PM             1,949 e58e5083[1].js
+04/11/2019  11:39 PM               226 f1d86b5a[1].js
+04/11/2019  11:39 PM             1,324 f8c6dd44[1].js
+04/11/2019  11:39 PM               237 favicon[1].png
+04/11/2019  11:40 PM               237 favicon[2].png
+04/11/2019  11:40 PM               636 font[1].css
+04/11/2019  11:40 PM                 0 GLinkPing[1].aspx
+04/11/2019  11:40 PM             4,992 google-logo-one-color[1].jpg
+04/11/2019  11:40 PM             3,599 GoogleInstaller_en-GB[1].application
+04/11/2019  11:40 PM               479 icon-x[1].jpg
+04/11/2019  11:40 PM            53,073 installer.min[1].js
+04/11/2019  11:39 PM            95,790 jquery-1.11.1.min[1].js
+04/11/2019  11:39 PM                 0 l[1]
+04/11/2019  11:40 PM                 0 l[2]
+04/11/2019  11:39 PM            19,225 meversion[1]
+04/11/2019  11:40 PM            18,121 modernizr[1].js
+04/11/2019  11:39 PM           817,335 mwf-west-european-default.min[1].css
+04/11/2019  11:39 PM            19,455 mwfmdl2-v3.07[1].eot
+04/11/2019  11:39 PM           149,267 search[1].htm
+04/11/2019  11:40 PM           119,060 thank-you[1].htm
+04/11/2019  11:40 PM             1,690 th[1].jpg
+04/11/2019  11:39 PM                43 trans[1].gif
+04/11/2019  11:39 PM                43 trans[2].gif
+              77 File(s)      1,894,695 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files\Low
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\WER
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:45 PM    <DIR>          ERC
+04/11/2019  11:45 PM    <DIR>          ReportArchive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\WER\ERC
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows\WER\ReportArchive
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM             1,736 account{1D942DD1-A997-4226-B2B1-138AF7A6A3DC}.oeaccount
+04/11/2019  11:36 PM               672 account{BD2355E0-2B36-4B4B-A593-1BC76D137D64}.oeaccount
+04/11/2019  11:36 PM             1,508 account{F8A7C4B4-4C89-4BF6-B1F5-8EB4334635F3}.oeaccount
+04/11/2019  11:36 PM    <DIR>          Backup
+04/11/2019  11:36 PM             8,192 edb.chk
+04/11/2019  11:36 PM         2,097,152 edb.log
+04/11/2019  11:36 PM         2,097,152 edb00001.log
+04/11/2019  11:36 PM         2,097,152 edbres00001.jrs
+04/11/2019  11:36 PM         2,097,152 edbres00002.jrs
+04/11/2019  11:36 PM               260 oeold.xml
+04/11/2019  11:36 PM         2,113,536 WindowsMail.MSMessageStore
+04/11/2019  11:36 PM            16,384 WindowsMail.pat
+              11 File(s)     10,530,896 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Backup
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          new
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Backup\new
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM         2,097,152 edb00001.log
+04/11/2019  11:36 PM         2,121,728 WindowsMail.MSMessageStore
+04/11/2019  11:36 PM            16,384 WindowsMail.pat
+               3 File(s)      4,235,264 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Mail\Stationery
+
+07/13/2009  11:28 PM               255 Bears.htm
+06/10/2009  10:29 PM             1,074 Bears.jpg
+07/13/2009  11:28 PM               231 Garden.htm
+06/10/2009  10:29 PM            23,871 Garden.jpg
+07/13/2009  11:28 PM               237 Green Bubbles.htm
+06/10/2009  10:29 PM             6,406 GreenBubbles.jpg
+07/13/2009  11:28 PM               235 Hand Prints.htm
+06/10/2009  10:29 PM             4,222 HandPrints.jpg
+07/13/2009  11:28 PM               237 Orange Circles.htm
+06/10/2009  10:29 PM             6,381 OrangeCircles.jpg
+07/13/2009  11:28 PM               232 Peacock.htm
+06/10/2009  10:29 PM             5,115 Peacock.jpg
+07/13/2009  11:28 PM               233 Roses.htm
+06/10/2009  10:29 PM             1,920 Roses.jpg
+07/13/2009  11:28 PM               237 Shades of Blue.htm
+06/10/2009  10:29 PM             4,734 ShadesOfBlue.jpg
+07/13/2009  11:28 PM               232 Soft Blue.htm
+06/10/2009  10:29 PM            10,569 SoftBlue.jpg
+07/13/2009  11:28 PM               230 Stars.htm
+06/10/2009  10:29 PM             7,505 Stars.jpg
+              20 File(s)         74,156 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Media
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          12.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Media\12.0
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM               498 WMSDKNS.DTD
+04/11/2019  11:36 PM            10,191 WMSDKNS.XML
+               2 File(s)         10,689 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Sidebar
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Gadgets
+04/11/2019  11:36 PM                84 Settings.ini
+               1 File(s)             84 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:40 PM           189,072 08158f91-8e25-411d-b839-f1239778559f.tmp
+04/11/2019  11:40 PM            20,053 097f6bfa-460a-4e30-84f5-f71cacc3f1bd.tmp
+04/11/2019  11:40 PM            29,663 58fdb372-0e0b-4b8c-9ecb-53dadca8aad8.tmp
+04/11/2019  11:40 PM           232,878 6aa1c592-c6c1-47dc-82ac-e4f7a3fc26df.tmp
+04/11/2019  11:40 PM            23,276 8689c4c4-831a-4f62-aec0-ddce50ab977d.tmp
+04/11/2019  11:37 PM            49,208 Administrator.bmp
+04/11/2019  11:41 PM            21,045 chrome_installer.log
+04/11/2019  11:40 PM    <DIR>          CR_E4F94.tmp
+04/11/2019  11:40 PM    <DIR>          Deployment
+04/11/2019  11:40 PM            23,643 e57f39d3-bbcc-4741-89ff-c7508bed674f.tmp
+04/11/2019  11:36 PM                 0 FXSAPIDebugLogFile.txt
+04/11/2019  11:37 PM            49,208 Guest.bmp
+04/11/2019  11:37 PM            49,208 Lab.bmp
+04/11/2019  11:36 PM    <DIR>          Low
+04/11/2019  11:36 PM               454 wmsetup.log
+04/11/2019  11:43 PM    <DIR>          WPDNSE
+              12 File(s)        687,708 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp\CR_E4F94.tmp
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM         2,020,336 setup.exe
+               1 File(s)      2,020,336 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp\Deployment
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp\Low
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Local\Temp\WPDNSE
+
+04/11/2019  11:43 PM    <DIR>          .
+04/11/2019  11:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\LocalLow
+
+04/11/2019  11:39 PM    <DIR>          .
+04/11/2019  11:39 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\LocalLow\Microsoft
+
+04/11/2019  11:39 PM    <DIR>          Internet Explorer
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\LocalLow\Microsoft\Internet Explorer
+
+04/11/2019  11:39 PM    <DIR>          .
+04/11/2019  11:39 PM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Services
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\LocalLow\Microsoft\Internet Explorer\Services
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Identities
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Identities
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          {E2604C1F-D7BA-4A08-B4A5-9DBB8993837C}
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Identities\{E2604C1F-D7BA-4A08-B4A5-9DBB8993837C}
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft
+
+07/14/2009  03:37 AM    <DIR>          Internet Explorer
+04/11/2019  11:36 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer
+
+07/14/2009  03:37 AM    <DIR>          .
+07/14/2009  03:37 AM    <DIR>          ..
+04/11/2019  11:40 PM    <DIR>          Quick Launch
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:41 PM             2,225 Google Chrome.lnk
+04/11/2019  11:39 PM             1,407 Launch Internet Explorer Browser.lnk
+07/14/2009  05:37 AM               290 Shows Desktop.lnk
+07/14/2009  05:37 AM               272 Window Switcher.lnk
+               4 File(s)          4,194 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+
+04/11/2019  11:36 PM    <DIR>          ImplicitAppShortcuts
+04/11/2019  11:40 PM    <DIR>          TaskBar
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
+
+04/11/2019  11:40 PM    <DIR>          .
+04/11/2019  11:40 PM    <DIR>          ..
+04/11/2019  11:40 PM             2,242 Google Chrome.lnk
+04/11/2019  11:36 PM             1,413 Internet Explorer.lnk
+07/14/2009  05:37 AM             1,228 Windows Explorer.lnk
+04/11/2019  11:36 PM             1,515 Windows Media Player.lnk
+               4 File(s)          6,398 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          IECompatCache
+04/11/2019  11:36 PM    <DIR>          Libraries
+07/14/2009  03:04 AM    <DIR>          Network Shortcuts
+07/14/2009  03:04 AM    <DIR>          Printer Shortcuts
+04/11/2019  11:44 PM    <DIR>          Recent
+04/11/2019  11:36 PM    <DIR>          SendTo
+04/11/2019  11:36 PM    <DIR>          Start Menu
+07/14/2009  03:04 AM    <DIR>          Templates
+04/11/2019  11:36 PM    <DIR>          Themes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Cookies
+
+04/11/2019  11:40 PM               733 administrator@bing[1].txt
+04/11/2019  11:40 PM               478 administrator@google.co[1].txt
+04/11/2019  11:39 PM               648 administrator@microsoft[2].txt
+04/11/2019  11:39 PM               206 administrator@msn[1].txt
+04/11/2019  11:39 PM               100 administrator@www.bing[1].txt
+04/11/2019  11:36 PM    <DIR>          Low
+               5 File(s)          2,165 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Cookies\Low
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\IECompatCache
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Libraries
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM             3,690 Documents.library-ms
+04/11/2019  11:36 PM             3,648 Music.library-ms
+04/11/2019  11:36 PM             3,682 Pictures.library-ms
+04/11/2019  11:36 PM             3,661 Videos.library-ms
+               4 File(s)         14,681 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+
+07/14/2009  03:04 AM    <DIR>          .
+07/14/2009  03:04 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+
+07/14/2009  03:04 AM    <DIR>          .
+07/14/2009  03:04 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent
+
+04/11/2019  11:44 PM    <DIR>          .
+04/11/2019  11:44 PM    <DIR>          ..
+04/11/2019  11:37 PM    <DIR>          AutomaticDestinations
+04/11/2019  11:36 PM    <DIR>          CustomDestinations
+04/11/2019  11:44 PM               156 System and Security.lnk
+04/11/2019  11:37 PM               156 User Accounts and Family Safety.lnk
+               2 File(s)            312 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+
+04/11/2019  11:37 PM    <DIR>          .
+04/11/2019  11:37 PM    <DIR>          ..
+04/11/2019  11:36 PM             5,632 1b4dd67f29cb1962.automaticDestinations-ms
+04/11/2019  11:44 PM             4,608 7e4dca80246863e3.automaticDestinations-ms
+               2 File(s)         10,240 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM                24 1b4dd67f29cb1962.customDestinations-ms
+04/11/2019  11:36 PM            15,722 5afe4de1b92fc382.customDestinations-ms
+04/11/2019  11:36 PM                24 7e4dca80246863e3.customDestinations-ms
+               3 File(s)         15,770 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\SendTo
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM             1,234 Bluetooth File Transfer.LNK
+06/10/2009  10:27 PM                 3 Compressed (zipped) Folder.ZFSendToTarget
+06/10/2009  10:26 PM                 7 Desktop (create shortcut).DeskLink
+04/11/2019  11:36 PM                 0 Documents.mydocs
+07/14/2009  05:42 AM             1,238 Fax Recipient.lnk
+06/10/2009  10:26 PM                 4 Mail Recipient.MAPIMail
+               6 File(s)          2,486 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM    <DIR>          Programs
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+07/14/2009  05:42 AM    <DIR>          Accessories
+04/11/2019  11:36 PM    <DIR>          Administrative Tools
+04/11/2019  11:36 PM             1,413 Internet Explorer.lnk
+07/14/2009  05:37 AM    <DIR>          Maintenance
+04/11/2019  11:36 PM    <DIR>          Startup
+               1 File(s)          1,413 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories
+
+07/14/2009  05:42 AM    <DIR>          .
+07/14/2009  05:42 AM    <DIR>          ..
+07/14/2009  05:41 AM    <DIR>          Accessibility
+07/14/2009  05:41 AM             1,280 Command Prompt.lnk
+07/14/2009  05:42 AM             1,304 Notepad.lnk
+07/14/2009  05:37 AM               262 Run.lnk
+04/11/2019  11:36 PM    <DIR>          System Tools
+07/14/2009  05:37 AM             1,228 Windows Explorer.lnk
+               4 File(s)          4,074 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Accessibility
+
+07/14/2009  05:41 AM    <DIR>          .
+07/14/2009  05:41 AM    <DIR>          ..
+07/14/2009  05:41 AM             1,358 Ease of Access.lnk
+07/14/2009  05:41 AM             1,258 Magnify.lnk
+07/14/2009  05:41 AM             1,262 Narrator.lnk
+07/14/2009  05:41 AM             1,250 On-Screen Keyboard.lnk
+               4 File(s)          5,128 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+07/14/2009  05:37 AM               262 computer.lnk
+07/14/2009  05:37 AM               262 Control Panel.lnk
+04/11/2019  11:36 PM             1,463 Internet Explorer (No Add-ons).lnk
+07/14/2009  05:42 AM             1,306 Private Character Editor.lnk
+               4 File(s)          3,293 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance
+
+07/14/2009  05:37 AM    <DIR>          .
+07/14/2009  05:37 AM    <DIR>          ..
+07/14/2009  05:37 AM               262 Help.lnk
+               1 File(s)            262 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Templates
+
+07/14/2009  03:04 AM    <DIR>          .
+07/14/2009  03:04 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Themes
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM           642,987 TranscodedWallpaper.jpg
+               1 File(s)        642,987 bytes
+
+ Directory of C:\Users\Administrator\Contacts
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM            68,382 Administrator.contact
+               1 File(s)         68,382 bytes
+
+ Directory of C:\Users\Administrator\Desktop
+
+11/27/2019  07:15 PM    <DIR>          .
+11/27/2019  07:15 PM    <DIR>          ..
+11/27/2019  07:15 PM                37 root.txt.txt
+               1 File(s)             37 bytes
+
+ Directory of C:\Users\Administrator\Documents
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Downloads
+
+04/11/2019  11:45 PM    <DIR>          .
+04/11/2019  11:45 PM    <DIR>          ..
+04/11/2019  11:45 PM        93,281,362 windows6.1-kb4012215-x86_e5918381cef63f171a74418f12143dabe5561a66.msu
+               1 File(s)     93,281,362 bytes
+
+ Directory of C:\Users\Administrator\Favorites
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:39 PM    <DIR>          Links
+04/11/2019  11:36 PM    <DIR>          Links for United States
+04/11/2019  11:36 PM    <DIR>          Microsoft Websites
+04/11/2019  11:36 PM    <DIR>          MSN Websites
+04/11/2019  11:36 PM    <DIR>          Windows Live
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Favorites\Links
+
+04/11/2019  11:39 PM    <DIR>          .
+04/11/2019  11:39 PM    <DIR>          ..
+04/11/2019  11:39 PM               236 Suggested Sites.url
+04/11/2019  11:39 PM               226 Web Slice Gallery.url
+               2 File(s)            462 bytes
+
+ Directory of C:\Users\Administrator\Favorites\Links for United States
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:39 PM               134 GobiernoUSA.gov.url
+04/11/2019  11:39 PM               134 USA.gov.url
+               2 File(s)            268 bytes
+
+ Directory of C:\Users\Administrator\Favorites\Microsoft Websites
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:39 PM               133 IE Add-on site.url
+04/11/2019  11:39 PM               133 IE site on Microsoft.com.url
+04/11/2019  11:39 PM               133 Microsoft At Home.url
+04/11/2019  11:39 PM               133 Microsoft At Work.url
+04/11/2019  11:39 PM               134 Microsoft Store.url
+               5 File(s)            666 bytes
+
+ Directory of C:\Users\Administrator\Favorites\MSN Websites
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:39 PM               133 MSN Autos.url
+04/11/2019  11:39 PM               133 MSN Entertainment.url
+04/11/2019  11:39 PM               133 MSN Money.url
+04/11/2019  11:39 PM               133 MSN Sports.url
+04/11/2019  11:39 PM               133 MSN.url
+04/11/2019  11:39 PM               133 MSNBC News.url
+               6 File(s)            798 bytes
+
+ Directory of C:\Users\Administrator\Favorites\Windows Live
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:39 PM               133 Get Windows Live.url
+04/11/2019  11:39 PM               133 Windows Live Gallery.url
+04/11/2019  11:39 PM               133 Windows Live Mail.url
+04/11/2019  11:39 PM               133 Windows Live Spaces.url
+               4 File(s)            532 bytes
+
+ Directory of C:\Users\Administrator\Links
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+04/11/2019  11:36 PM               506 Desktop.lnk
+04/11/2019  11:36 PM               917 Downloads.lnk
+04/11/2019  11:36 PM               363 RecentPlaces.lnk
+               3 File(s)          1,786 bytes
+
+ Directory of C:\Users\Administrator\Music
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Pictures
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Saved Games
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Searches
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Administrator\Videos
+
+04/11/2019  11:36 PM    <DIR>          .
+04/11/2019  11:36 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+             883 File(s)    151,888,277 bytes
+            1034 Dir(s)  19,509,284,864 bytes free
