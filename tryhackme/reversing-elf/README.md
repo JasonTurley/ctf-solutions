@@ -151,4 +151,40 @@ Once again, the password is visible in the ltrace output.
 
 > Analyze the binary for the easy password
 
+Open the binary in radare2.
 
+```
+$ r2 -d ./crackme6
+```
+
+Next, analyze (`aaa`) and list (`afl`) all the functions. Examine the
+function my_secure_test by entering `pdf @sym.my_secure_test`.
+
+This is a long function but we only need to concern ourselves with the **cmp**
+instructions. Each one compares $al (the lower 8-bits of register $rax) with a
+single byte.
+
+```
+... redacted assembly ...
+cmp	al, 0x31
+...
+cmp	al, 0x33
+... more redacted assembly ...
+```
+
+I wrote a small python script that translates each hex value into an ASCII
+character:
+
+```
+#!/usr/bin/env python3
+data = [0x31, 0x33, 0x33, 0x37, 0x5f, 0x70, 0x77, 0x64]
+
+for item in data:
+    print(chr(item), end="")
+
+print()
+```
+
+This prints the password on one line!
+
+## Crackme7
