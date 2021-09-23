@@ -127,10 +127,10 @@ Microsoft IIS is the default web server for Windows and is located in
 
 Perform a directory listing of the folder and notice the .jsp extensions.
 
-![intepub](./screenshot/intepub.png)
+![inetpub](./screenshot/inetpub.png)
 
 **What was the last port the attacker opened?**
 
 We can check the last open port by examining the inbound rules on the Windows Firewall.
 
-![firewall](./screenshots/firewall)
+![firewall](./screenshots/firewall.png)
