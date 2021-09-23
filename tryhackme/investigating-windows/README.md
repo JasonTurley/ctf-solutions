@@ -9,6 +9,7 @@ This challenge is about investigating a previously compromised Windows machine.
 We are told to connect to the machine via RDP using the below credentials:
 
 Username: Administrator
+
 Password: letmein123!
 
 Since I am on Kali Linux, I will use the rdesktop command to connect to the RDP
@@ -25,11 +26,13 @@ investigation.
 
 
 **Whats the version and year of the windows machine?**
+
 The version is Windows Server 2016, and can be found by running the `winver`
 command. Identifying the version is important because not all commands
 work on all versions of Windows.
 
 **Which user logged in last?**
+
 To find the last logged on user, check the
 following registry key (note capitalization doesn't matter in Windows):
 
@@ -42,12 +45,14 @@ Then check the "LastLoggedOnUser" key.
 ![last-logged-user](./screenshots/last-logged-user.png)
 
 **When did John log onto the system last?**
+
 Enter `net user John` to print John's user information, including his last logon
 date and time.
 
 ![john](./screenshots/john.png)
 
 **What IP does the system connect to when it first starts?**
+
 When you first RDP into the system, a command prompt pops up attempting to
 connect to 10.34.2.3 
 
@@ -55,6 +60,7 @@ connect to 10.34.2.3
 
 **What two accounts had administrative privileges (other than the Administrator
 user)?**
+
 To find which users have administrative privileges, we simply need to check the
 Administrator group. 
 
@@ -78,12 +84,15 @@ a netcat listener!
 See above screenshot. 
 
 **What port did this file listen locally for?**
+
 See above screenshot.
 
 **When did Jenny last logon?**
+
 Run `net user Jenny`.
 
 **At what date did the compromise take place?**
+
 Check the "Start Date" field from the above schtasks screenshot.
 
 **At what time did Windows first assign special privileges to a new logon?**
@@ -104,6 +113,7 @@ wevtutil qe Security /f:text > security-logs.txt
 ```
 
 **What tool was used to get Windows passwords?**
+
 In the C:\TMP file there is an executable named mim.exe. Execute it and it will
 print out banner information for Mimikatz, a popular Windows exploitation tool.
 
@@ -127,7 +137,7 @@ Microsoft IIS is the default web server for Windows and is located in
 
 Perform a directory listing of the folder and notice the .jsp extensions.
 
-![inetpub](./screenshot/inetpub.png)
+![inetpub](./screenshots/inetpub.png)
 
 **What was the last port the attacker opened?**
 
