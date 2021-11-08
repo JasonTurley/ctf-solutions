@@ -45,12 +45,13 @@ protocol](https://book.hacktricks.xyz/pentesting/8009-pentesting-apache-jserv-pr
 from hacktricks.xyz.
 
 Since port 8009 is expose, the server is susceptible to a restricted LFI
-vulnerability referred to as "Ghostcat". We can read files like
+vulnerability called "Ghostcat". We can read files like
 `WEB-INF/web.xml`
 which can leak important information like credentials for the Tomcat interface,
 depending on the server setup
 
-Here is a Python implementation of the [exploit](https://www.exploit-db.com/exploits/48143)
+Here is a Python implementation of the
+[exploit](https://www.exploit-db.com/exploits/48143).
 
 Run it to leak the credentials to the SSH server.
 
@@ -58,7 +59,7 @@ Run it to leak the credentials to the SSH server.
 $ python ghostcat.py <machine IP>
 ```
 
-## Inital Access
+## Initial Access
 
 Use the leaked credentials to log into the SSH server. From there, the user.txt
 flag can be found at /home/merlin/user.txt:
@@ -67,8 +68,6 @@ flag can be found at /home/merlin/user.txt:
 skyfuck@ubuntu:~$ cat /home/merlin/user.txt
 REDACTED-FLAG
 ```
-
-## Privilege Escalation
 
 Perform a directory listing on the skyfuck user's home directory:
 
@@ -151,7 +150,8 @@ Switch to the other user and see what privileges they have on the system.
 
 ```
 skyfuck@ubuntu:~$ su merlin
-Password:                                                                                                                                                             
+Password: 
+                                                                              
 merlin@ubuntu:~$ sudo -l
 Matching Defaults entries for merlin on ubuntu:                                                                                                                       
     env_reset, mail_badpass,
@@ -163,7 +163,7 @@ User merlin may run the following commands on ubuntu:
 
 Interesting, we can run /usr/bin/zip with no password as the root user. 
 
-Make a zip file of the flag file root.txt
+Make a zip file and extract it to read the root.txt flag file.
 
 ```
 merlin@ubuntu:~$ sudo /usr/bin/zip ./flag.zip /root/root.txt
