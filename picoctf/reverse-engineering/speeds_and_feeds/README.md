@@ -14,7 +14,7 @@ Challenge description
 
 When we connect to the host and port we are flooded with info. 
 
-```
+```gcode
 G17 G21 G40 G90 G64 P0.003 F50
 G0Z0.1
 G0Z0.1
