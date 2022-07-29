@@ -1,6 +1,6 @@
 # Narnia0
 Connect to the challenge server:
-```ssh narnia0@ narnia.labs.overthewire.org 2226```
+```ssh narnia0@narnia.labs.overthewire.org -p 2226```
 
 ## Objective
 Change the target variable to 0xdeadbeef.
